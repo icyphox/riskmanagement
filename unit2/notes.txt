@@ -48,3 +48,14 @@
 		> operational intel: produced by computers (DDoS ddetection)
 		> strategic intel: produced by human analysts	 
 	
+- vuln identification
+	* NIST I-CAT vuln db
+	* NVD 
+	* CVE
+	* SecurityFocus.com mailing lists
+	* pentesting (proactive)
+	
+- development of security requirements checklist
+	* management: continuity of support, incident response capability, assignment of responsibilities, risk assesment, etc.
+	* operational: facility protection, workstation, laptops, external data dist and labeling
+	* technical: cryptography, discretionary access control, identification and auth, intrusion detection, system audit
