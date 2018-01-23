@@ -4,7 +4,8 @@
 - if the asset isn't worth much, the risk isn't high
 - vuln is only one component of risk
 - risk is a derived value, derived from the combination of the threat event in frequency, vulnerability and asset vaule and the libilty characterstics
-- 3 phases * risk assesment
+- 3 phases 
+	* risk assesment
 	* risk mitigation
 	* risk evaulation
 
