@@ -4,9 +4,7 @@
 - if the asset isn't worth much, the risk isn't high
 - vuln is only one component of risk
 - risk is a derived value, derived from the combination of the threat event in frequency, vulnerability and asset vaule and the libilty characterstics
-
-- 3 phases
-	* risk assesment
+- 3 phases * risk assesment
 	* risk mitigation
 	* risk evaulation
 
@@ -37,3 +35,15 @@
 	* ALE is Annual Loss Exposure, V is value of an asset
 	* L is likelihood
 
+- new threat landscape:
+	* coordinated persistent threat actors
+	* multi-vector attacks
+	* multi-stage attacks
+	* dynamic, polymorphic malware
+	attacks need to succeed only once, defenses need to work many times
+
+- threat intelligence
+	* knowledge that helps identify security threats and make informed descions
+	* two cat:
+		> operational intel: produced by computers (DDoS ddetection)
+		> strategic intel: produced by human analysts	 
