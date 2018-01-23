@@ -1,0 +1,72 @@
+>> Step two in risk assessment, vulnerability identification.
+Vulnerability is a flaw or weakness in system and security procedures, design, implementation,
+or internal controls that could be exercised, accidentally triggered,
+or intentionally exploited, and result in a security breach
+or violation of the system's security policy.
+Vulnerabilities can be identified by numerous means.
+Different risk management schemes often offer different methodologies
+for identifying vulnerabilities.
+In general, start with the commonly available vulnerability list or control areas,
+then working with the system owners or other individuals with knowledge
+of the system organization, start to identify the vulnerabilities that apply to the system.
+Specific vulnerabilities can be found by reviewing vendor websites
+and public vulnerability archives, such as NIST ICAT Vulnerability Database,
+National Vulnerability Database, NVD.
+Common Vulnerabilities and Exposures, CVE.
+Commercial computer incident emergency response teams and post lists,
+such as securityfocus.com forum mailing list.
+If they exist, previous risk assessment and audit reports are the best place to start.
+Security system testing method, such as automated vulnerability scanning tools,
+security test and evaluation, and penetration testing, these are all powerful methods
+in uncovering vulnerabilities in a practical manner.
+A security requirement checklist is another method in identifying vulnerabilities,
+contains the basic security standards that can be used to systematically evaluate
+and identify the vulnerabilities of the asset, such as personnel,
+hardware, software, and information.
+There are three categories of security requirement checklist.
+First is management-related checklist, such as continuity of support,
+incident response capability, assignment of responsibilities, and risk assessment.
+Second, operational-related checklist, like facility protection, workstation, laptops,
+external data distribution, and labeling.
+Technical checklist, such as cryptography, discretionary access control, identification,
+authentication, and the intrusion detection.
+It is invaluable to have a base list of vulnerabilities
+that are always considered during every risk assessment in the organization.
+This practice ensures at least a minimal level of consistency between risk assessments.
+Moreover, vulnerabilities discovered during past assessment
+of the system should be included in all future assessments.
+Doing this allows management to understand
+that the past risk management activities have been effective.
+One of the more difficult activities in the risk management process is
+to relate a threat to a vulnerability.
+Nonetheless, establishing this relationship is a mandatory activity, since risk is defined
+as the exercise of a threat against a vulnerability.
+This is often called threat-vulnerability, TV pairing.
+Once again, there are many techniques to perform this task.
+Not every threat action or threat can be exercised against every vulnerability.
+For instance, a threat of flood obviously applies to the vulnerability of lack
+of contingency planning, but not to a vulnerability of failure
+to change default authentications.
+While logically the same [inaudible] standard set of TV pairs would be widely available
+and used, currently that's not the case.
+This is maybe due to the fact that the threats
+and especially vulnerabilities are constantly being discovered,
+and that TV pairs would be changed fairly often.
+Nonetheless, an organization's standard list
+of TV pairs should be established and used as a baseline.
+Developing the TV pair list is accomplished by reviewing the vulnerability list
+and pairing a vulnerability with every threat that applies, then by reviewing the threat list
+and ensuring that all the vulnerabilities that a threat, action,
+or threat can act against has been identified.
+For each system, the standard TV pair list should be tailored.
+This table shows three pairs.
+First, terminate employee system ID are not removed from the system.
+The terminated employee or actor dialing in to the [inaudible] network
+and accessing company proprietary data.
+Second, company [inaudible] allows inbound Telnet, and guest ID is enabled on XYZ server.
+Unauthorized user, such as hackers, computer criminals, and terrorists,
+use the Telnet to XYZ server and browsing system files with the guest ID.
+The third, the vendor with identified flaws in the security design of the system.
+However, new patches have not been applied.
+Unauthorized users obtain authorized exercise to sensitive system files,
+based on the known system vulnerability.

@@ -47,3 +47,4 @@
 	* two cat:
 		> operational intel: produced by computers (DDoS ddetection)
 		> strategic intel: produced by human analysts	 
+	
