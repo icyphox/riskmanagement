@@ -1,0 +1,56 @@
+>> Whereas information security dates more than a century,
+cybersecurity has only become a widely used term in recent decades.
+As we mentioned earlier, cybersecurity is about protecting all the things that are vulnerable
+through information and communication technology, such as the internet.
+It includes information, but it can also include things other than information.
+Therefore, the emphasis on connectedness in cybersecurity distinguishes itself from InfoSec.
+However, not all information are in digital form and not all information is stored
+in repositories which are accessible via internet.
+InfoSec broadly covers all information, regardless of its format or connectedness.
+The similarity and the difference between cybersecurity
+and InfoSec is illustrated by a Venn diagram here.
+The connected digital information is the common asset overlapped by cybersecurity and InfoSec.
+Now, let's compare the term cybersecurity with computer security.
+Computers can be insecure without being connected and can be under similar threats
+without ever touching the internet.
+One of the most famous examples of this is the Stuxnet malware,
+which was used to bring a uranium enrichment facility in Iran to a halt.
+Stuxnet was introduced to the facility internal network, which is not connected to the internet.
+And from there, it was able to spread
+to the computers controlling the enrichment process and shutting them down.
+This introduction happened by way of air-gap laptop computer, which is a computer
+which has never been connected to the internet before,
+which is thought to have been compromised through the insertion of an infected USB stick.
+Since one of the more notorious malware attacks happened
+without the internet ever being involved, it is easy to argue that the need
+for computer security exists separately from cybersecurity.
+The two overlap in the case of computer or devices that are connected to the internet,
+as illustrated by this Venn diagram.
+And cybersecurity should only apply to computing machinery in cyberspace,
+and that is internet and its connected entities.
+Another term used broadly is IT security.
+IT is a critical infrastructure in business organizations of all sizes.
+Its primary purpose is to establish a sustainable, secure, compliant, robust,
+and reliable IT infrastructure that enables a consistent technology experience for all users,
+including employees, customers, partners, supplies.
+Therefore, IT security is operational and technical-driven objective.
+The assets in IT system is a combination of assets covered
+by computer security, InfoSec, and cybersecurity.
+Therefore, if you sum up the computer security, InfoSec, and cybersecurity, and then filter them
+through technical and operational lens, that is what constitutes IT security.
+IT focuses on security of information technology, such as systems that acquire,
+process, and store the information in all format -- internal and external network,
+application software, mobile devices, IoT devices, cloud, and the interaction
+between all these component and end users.
+Comparing to InfoSec, IT security is more technology oriented.
+For instance, it concerns with the following operations in IT environment: firewalls,
+antivirus, vulnerability scans, penetration testing, intrusion detection,
+computer forensics, access control, network security, system monitoring,
+patch management, and data encryption.
+On the other hand, InfoSec is more business oriented.
+Its primary concerns include intellectual property, regulatory compliance,
+business/financial integrity, insider abuse, industrial espionage, data privacy, governance,
+crisis management, business continuity, risk analysis, and organizational view.
+Therefore, the differences lie in their different focus --
+IT security on technical and operation issues; InfoSec on business and strategic issues.
+The scope of IT asset is much broader than information itself.

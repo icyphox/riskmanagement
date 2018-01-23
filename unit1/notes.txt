@@ -1,0 +1,36 @@
+asset - anything valuable in the org
+vuln - any weakness of asset
+threats/attacks/adversaries - the potential for an actor with a certain motive to exercise a specific vuln
+	* actor - person, org, gov
+	* motivation - publicity, financial, political/religion
+	* capability - req knowledge, available tools
+risk - vuln exposed to threat impacted asset
+controls/safeguards - countermeasures to redce risk
+
+in 1990's - 
+	worms, open networks, systems w insecure configs.
+(protection phase - vuln management)
+
+in 2000's - 
+	script kiddies, client side attacks that exploits vulns in web browser, messaging or streaming apps
+(detection phase - threat management)
+
+now, in 2010's - 
+	maturing ecosystem, persistent target attacks (APT), DDoS, botnet, ransomware
+(instant response - risk management)
+
+no industry is immune to data loss
+
+threats in 2020's - 
+	* rise of attacks that cause irreversible harm
+	* social engg. will become more prominent
+	* nearly 50% of alerts and logs never invsetigated
+	* dangers from and to the fast emerging AI systems
+(age of resilience)
+
+security solutions - 
+	* remove attacker persistence - kill your own servers and reset your infrastructure (Netflix example)
+	* easier or automated anomaly detection
+	* built-in visibility
+	* usable security to better mitigate SE attacks
+	* learning to adapt to new attacker patterns

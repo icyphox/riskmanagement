@@ -1,0 +1,93 @@
+>> Before we investigate the evolving landscape of cybersecurity,
+let's go through another set of terminologies.
+Asset is anything valuable in the organization, such as information, applications, servers,
+laptops, databases, people, and buildings.
+Vulnerability is any weakness of asset.
+Often refers to a flaw in a system that can leave it open to attack.
+This may be software bugs, an outdated version of operating system,
+a loophole in a policy, or any human error.
+Threats, or attacks, or adversaries --
+we use these three terms interchangeably in this course.
+They refer to the potential for threats sourced to exercise a specific vulnerability,
+either accidentally or intentionally.
+Threat source can be represented by the actor with the motive.
+Actor of a threat source could be a person, a group of people,
+organization, or even the government.
+The motivation of actors, either for publicity,
+for fame or financial gain, or political or religion causes.
+The third component of threat source is capability.
+That is required knowledge and available tools for the threat source
+to exploit, or exercise, the vulnerability.
+Risks is vulnerability exposed to threat that impacts asset.
+Risk is the central area covered by threat, vulnerability, and asset.
+We'll get into deep on how to model and assess risk later in the course.
+Controls or safeguards.
+These are countermeasures to reduce risk.
+This could include technical methods,
+administrative guidelines, regulatory policies, and so on.
+In our early internet days, we did not see the extent
+of the hacking and the need for cybersecurity.
+Today, we are two solid decades into the internet.
+The growing number of attacks on our cyberspace has become impressed in Obama's words,
+"one of the most serious economic and national security threats our nation faces."
+Now, we all know that fighting it costs lots of money and is really hard.
+Let's look at the evolving landscape in cybersecurity
+from both offense and defense sides.
+On offense, namely threats, attacks, or adversaries.
+On the defense, we use terms controls, safeguards,
+or security measures interchangeably throughout this course.
+Let's start from early 1990's, when computers become increasingly connected
+and usable to the masses.
+The main challenges and threats were viruses --
+worms, open networks, and systems with insecure configurations.
+The defense solution are antivirus, firewalls, secure configuration guidelines
+to ensure our systems are properly protected.
+At this point, we're at protection phase, and the security focus is vulnerability management.
+Lessons learned then are to build systems with the security in mind
+and ability to keep them up to date.
+Fast-forward ten years in 2000's, when attack tools
+such as script kiddies is widely available.
+The main threats are client-side attacks that exploits vulnerability in web browser,
+messaging, or streaming applications.
+Automated probes and scans.
+The too many alerts and locks to review.
+And the defense solutions came up with a security information and event management, SIEM,
+and intrusion detection system, IDS.
+This is at a detection phase.
+The security focus is on threat management.
+And lessons learned there are
+that the protection technology in '90's are not foolproof.
+Humans still remain the weakest link.
+Analyses are needed to review security locks.
+Now, our current days in 2010's.
+The attackers ecosystem are maturing with great tools.
+With the emerging of IoT technologies, sensors become network parameters,
+and traditional in-depth, layered, parameter-focused defenses no longer sufficient.
+The challenges we're facing are persistent targeted attacks, APT; distributed denial
+of services, DDoS; botnet attacks from a collection of connected devices
+that are infected and controlled by a common type of malware; phishing; ransomware.
+This is the age of instant response, and we need firefighting tools, such as endpoint detection
+and response, EDR; identity access management.
+Nowadays, the security focus is on risk management and the rise of independent CISO,
+Chief Information Security Officers, function outside of IT.
+Lessons learned are that we have to assume breach.
+All the things we thought should keep us secure aren't really keeping us secure.
+And no industry is immune to data loss.
+Any organization that has sensitive data, which is every organization with employees
+or confidential business information, can be a target.
+Security threats are growing at a faster pace than the industry can react or adapt to it.
+The threat landscape is more dynamic than ever.
+With the increasing sophistication and the growing frequency of cyber threats,
+more advanced and high-quality tools available assisting attackers, the required action
+and technical knowledge is declining, since there's more automated threats can be exercised.
+Attackers rapidly adapting new techniques and strategies
+to circumvent new security measures and evade the detection.
+Attackers take no break.
+Another interesting technical shifting on the defense side is emerging as well.
+The defense strategy from vulnerability management focuses on protection
+in first internet decade, shifting to threat management focusing on detection phase
+in the second decade, and today's strategy focuses on risk management
+with a dedicated CISO function and focusing on instant response.
+Now, what's next?
+What kind of threats or attacks should we see coming in the next decade, 2020's?
+How should we get prepared for them?

@@ -1,0 +1,33 @@
+>> Cybersecurity is a bit harder to define because comparing
+to computer security and InfoSec, it is fairly young.
+It has emerged somewhere in between 1989 and 1994,
+and the definitions still have to fully converge.
+Many simply define cybersecurity as a subset of InfoSec since it concerns
+with the information in cyberspace.
+In general, cyber- as a prefix denotes terms relating to the internet,
+but questions raised are: What is cyberspace, then?
+What are the assets?
+What about non-information-based assets in cyberspace?
+Are there any unique aspects of security in cyberspace?
+How is it similar or different from computer security and InfoSec?
+Based on the definition by Ottis and Lorents in 2010, "Cyberspace is a time-dependent set
+of interconnected information systems and the humans that interact with these systems."
+Therefore, we know that cyberspace is dynamic, evolving, virtual, connected,
+multilevel ecosystem of physical infrastructure, software, regulations, processes,
+and interactions influenced by an expanding population of contributors
+who represent the range of human intentions.
+So on the very high level, you can think the cyberspace simply encompasses the internet
+and its connected entities.
+With the number of devices connected to networks and the internet growing,
+not least because of the emergency of the so-called Internet of things, IoT,
+it is clear that information is not only vulnerable assets
+in the need of protection in the cyberspace.
+Assets in cyberspace include information itself; information infrastructure,
+that include internet, embedded software, firmware, or communication protocols;
+non-information asset, which are physical entities connected on internet.
+For instance, critical infrastructure, like energy grid, water supply, public health,
+transportation system, telecommunications, financial services, and so on.
+Internet of things, that include connected and self-driving vehicles,
+connected medical devices, and connected home automation and entertainment system, and so on.
+In essence, cybersecurity is about protecting all those assets that are vulnerable
+in cyberspace to ensure their confidentiality, integrity, and availability.
