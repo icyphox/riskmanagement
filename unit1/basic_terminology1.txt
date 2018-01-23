@@ -1,0 +1,47 @@
+>> In the rapidly changing technology industry,
+the meanings of technical terms evolve over time.
+Also, there isn't necessarily a clear consensus on their definitions and the degree
+to why they overlap or are interchangeable.
+In this unit, we'll begin with a set of cybersecurity-related terminologies
+and their definitions that will be used throughout the course.
+This includes computer security, information security, cybersecurity, and IT security.
+These terms are closely linked that they are often used interchangeably.
+But there are some important distinctions among them.
+How similar and different are these terminologies?
+What about privacy?
+How does it relate with security?
+To ascertain the similarities and differences among these terms is
+by asking the following questions: What asset in what context is being secured
+or protected and what purpose it serves?
+First, let's start out with the computer security.
+Computer security is a process and the collection of measures and controls
+that ensures the confidentiality, integrity, and availability, CIA,
+of the assets in computer systems.
+Here, C stands for confidentiality -- ensures authorized access and disclosure.
+I, integrity, ensures proper modification or destruction.
+A stands for availability, ensures timely and reliable access and use.
+The assets to be secured include three major types.
+First, computing hardware devices, such as servers, PC, laptop, tablet, mobile phones.
+Second, network devices, such as router and switches.
+Third include embedded software, firmware, and operating systems.
+Now, next, let's look at information security.
+Information is a significant asset that can be stored in different ways,
+such as stored digitally, or printed, or written on paper, or in human memory.
+Also, it can be communicated through different channels, such as spoken language, gestures,
+or digital channels, such as the internet, email, short messaging, videos, and so on.
+Information security, or InfoSec in short, is another way of saying data security.
+Most modern business data resides electronically on servers, desktops,
+laptops, or somewhere on internet.
+But a decade ago, before all confidential information migrated online,
+it was sitting in a file cabinet.
+Today, some confidential information still is.
+InfoSec is concerned with making sure data in any form is kept secure in terms
+of preserving its confidentiality, integrity, and availability.
+As defined by the International Standards Organization, ISO, in 2014,
+additional properties, such as authenticity, that ensures the source of information is
+from the source it claims to be; accountability; non-repudiation, which is the ability to ensure
+that one cannot deny the authenticity of their signature on the document or on the message;
+and reliability can also be involved.
+InfoSec is fairly broad and encompasses classification of information,
+information security policies and procedures, physical security aspects,
+and legal protections, and retention of information, regardless what format it is in.

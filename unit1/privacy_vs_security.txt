@@ -1,0 +1,36 @@
+>> Privacy is an inherent human right to protect human dignity, being, and costs.
+Information privacy is the right to have some control
+over how your personal information is collected and used.
+Privacy and security are symbiotic in nature.
+They are not one and the same.
+Security is centered around confidentiality, integrity, and availability
+and is about protecting all information, including personal, business,
+or public information and the systems that collect, process, and store them.
+On the other hand, privacy concerns personal information and protects user rights.
+It encompasses collection of personal information, what can be collected,
+and how to collect them, who can access and how to access personal information,
+using and disclosing personal information in an authorized manner, which can be used
+and disclosed by whom, for what purpose.
+Data quality is to ensure data collected or used are accurate, authentic,
+nonbiased, and not modified improperly.
+Anonymity is about whether to share and how one can share or send information anonymously.
+The overlapping area between privacy
+and security is the protection of personal information.
+Then, what is personal information?
+Personal information is anything
+that establishes a one-to-one relationship to a certain individual.
+Examples are telephone book date, which may not seems to be particularly personal;
+unique identifiers, such as Social Security number, IP addresses, usernames; sensitive data,
+such as personal health care records, things you purchased, websites you visit,
+geolocations of your comings and goings, and who you associate with via online social network.
+Watch out for combinations of innocuous data.
+A study by U.S. Privacy Study Commission reported,
+"The real danger is the gradual erosion of individual liberties through automation,
+integration, and interconnection of many small, separate record-keeping systems,
+each of which alone may seem innocuous, even beneficial, and wholly justifiable."
+Previous study also known that 87% of the U.S. population are uniquely identifiable
+by combination of date of birth, gender, and zip code.
+Privacy is not only a legislative obligation to many business but also a strategic asset
+and advantage to business competitiveness and brand value.
+Managing privacy risk is an integral part of cybersecurity risk management,
+and we will discuss more details later in this course.

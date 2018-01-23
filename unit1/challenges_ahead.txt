@@ -1,0 +1,120 @@
+>> The contours of a cyber threat landscape will continue to expand like never before.
+With global internet traffic is said to be tripled by 2020,
+cyber criminals have more opportunities to exploit it --
+everything from endpoint devices in IoT to the cloud platforms.
+Moving ahead, there are both external
+and internal challenges toward cybersecurity functions.
+The increased external threats are manifesting through three aspects:
+the multiplying cyber threats, the disappearing perimeters as the proliferations
+of endpoint devices in IoT and increasingly wide adoption of public and private cloud platforms,
+growing attacking power of cyber criminals with more advanced and easy-to-use tools,
+and attackers are rapidly adapting new techniques and strategies
+to circumvent new security measures.
+Internally, cybersecurity functions are facing following challenges: lack of agility due
+to the predominant compliance-driven mind-set in security functions, lack of budget due
+to many competing needs, and the cybersecurity skill gap will be ever-greater challenge
+as more companies compete for talent in the limited marketplace.
+Companies may be forced to rethink strategies and look for automated solutions
+that are more proactive and preventive to enable them
+to make the best use of available resources.
+Traditional IT professionals need to be retrained because the top priority
+of today's IT job is cybersecurity.
+Last but not least, human beings are still the weakest links.
+So cybersecurity is not just a pure technical problem.
+As we're moving into the third decade of internet age,
+one of the top cyber threats is the rise of cyber attacks that cause the irreversible harms.
+Examples include the Sony hack in December 2014 that disclosed private and sensitive information
+that cannot be pulled back -- confidentiality under attack.
+Ransomware, like the WannaCry in May 2017 that encrypted health care data
+and paralyzed operations -- availability under attack.
+Ransomware is the new buzzword in 2017, and it is a type of malicious software that breaks
+into the computers, locks down the data,
+and encrypts them to block access until ransom is paid.
+Ransomware attack is different from traditional data breach
+in which hackers steal the data and sell them for profit.
+By encrypting and blocking access to patient electronic records, for instance,
+the routine hospital operations could be disrupted
+and held hostage until ransom been paid.
+Health care systems have been the sector mostly hit by ransomware recently due to the needs
+for hospital to pay the ransom is greater in order to treat critical patients timely.
+We'll decipher the most recent ransomware incidence, WannaCry, later in this course.
+Going further, ransomware will further diversify as attackers move beyond the desktop.
+It is expected to see ransomware going after high-value enterprise targets,
+such as health care records, backup systems, connected and self-driving vehicles.
+We may also see IoT devices being used to disrupt and ransom businesses.
+If an attacker can take control of your lights, heating, or access controls,
+then they could easily hold you to ransom for this.
+Social engineering will become more prominent.
+In day-to-day scenarios, we see attacks that focus less on sophisticated vulnerabilities
+and more on manipulating users with social engineering.
+As many still rely on detection strategy, attack does not need to be advanced.
+It just needs to be unique enough not to be detected.
+Email will continue to be the primary target for phishing attacks.
+However, we can expect to see a broader range of phishing campaigns using messaging apps,
+social media, and uses personal email to bypass corporate filters.
+Nearly 50% of alerts and logs never investigated.
+Organizations allowing serious gaps unchecked.
+There's a need to leverage the recent advancements in artificial intelligence,
+machine learning, and deep learning and to scale them to solve cybersecurity challenges.
+Artificial intelligence, AI, is coming of age.
+AI's industry growth will start to explode, and its impact on business and society will begin
+to emerge dramatically into 2020's.
+AI-powered machines and software will likely to start untethered from human supervision,
+embarking on their own fateful paths as sentient beings.
+How to ensure these self-modifiable
+and self-improving machines or software are secure and safe?
+On the other hand, these intelligence systems are heavily dependent on data,
+which could be potentially new vulnerability that a hacker can exploit by poisoning the data
+to fool the system and evade the phishing detection.
+Cyber breaches are assumed, and the conventional methods for protection,
+detection, and responding are not enough.
+2020's is the age of resilience.
+Resilience is ability to recover quickly from adversities
+and learn to grow stronger and better.
+To achieve security resilience, we need solutions directly support the following:
+timely recovery from adversities,
+such as cloud-based backup and disaster recovery services.
+Agilities, which is ability to adapt to the evolving threats and changing environment,
+is key to keep systems secure,
+such as decentralized architecture via blockchain and Docker containers.
+Security by design is to enable usable security to provide better awareness,
+more intuitive tools to better mitigate social engineering attacks,
+using AI and machine-learning methods to automatically spot anomalies,
+and detect malicious activity, and automatically respond to cyber threats.
+Ability to learn from past experience and achieve better results,
+that is to use data-driven analytics' deep [inaudible] network
+to discover new behavior patterns with less human intervention.
+But wait, how are these security solutions?
+Solutions that help business operate with speed and resilience doesn't often appear
+as security solutions but have clear security benefits.
+Removing attacker persistence is the ability to quickly wipe
+out your own infrastructure and start it over.
+It doesn't matter if attacker can do this.
+If you can do it yourself too, this makes really hard for attackers to achieve the persistence.
+If you look at Netflix architecture,
+most of these back-end server infrastructure don't live for more than three days.
+Some only exist for a few minutes.
+So the notion of compromising your system and making it persistent by attacker will be,
+become really, really challenging when you environment is constantly changing.
+Easier or automated anomaly detection.
+Manual solutions provide some declarative policy or automated data-driven analytic methods,
+which can quickly detect anomalies
+and suspicious activity without reprogramming the codes.
+This enables agility and adaptability to the dynamic, changing threats.
+Built in this ability, information
+as it services cloud provides offer reach visibility and logging by default.
+Design usable security to better mitigate social engineering attack is to alert user easily
+and intuitively regards the suspicious mails or messages and also better manage their passwords.
+Learning to adapt to new attack patterns.
+The reason advancements in machine learning and deep learning enables the adaptability
+through learning with little or no human intervention.
+Let us recap with answers to the previous questions on, what kind of threats
+or attacks should we see coming in the next decade, 2020's?
+How should we get prepared for them?
+We'll see three top threats: the rise of cyber attacks causing irreversible harms,
+such as ransomware attacks -- too much logs and alerts to analyze in timely fashion.
+Many unchecked gaps lead to potential vulnerability.
+New threats and dangers from and to AI-powered systems.
+We need to be cyber resilient through a wide range of solutions, such as cloud platform, AI,
+machine learning, deep learning, and data-driven analytics,
+serverless architecture, immutable infrastructure.
