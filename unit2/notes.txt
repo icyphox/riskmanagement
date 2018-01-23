@@ -59,3 +59,6 @@
 	* management: continuity of support, incident response capability, assignment of responsibilities, risk assesment, etc.
 	* operational: facility protection, workstation, laptops, external data dist and labeling
 	* technical: cryptography, discretionary access control, identification and auth, intrusion detection, system audit
+
+- pairing threat to vuln (T-V pairing) 
+
