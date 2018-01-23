@@ -1,0 +1,128 @@
+>> There are numerous risk assessment and management methodologies and tools,
+and each has its own advantages and disadvantages.
+In general, they all require organizational discipline to convene a multidisciplinary team,
+define assets, list threats, evaluate controls,
+and conclude with an estimate of the risk magnitude.
+We'll go over a few here that were developed for managing risks in information systems.
+National Institute of Standards and Technology, NIST methodology.
+Risk management framework, RMF, is the U.S. Federal Government's standard and described
+in the NIST Special Publication 800-30.
+This methodology is primarily designed to be qualitative
+and is based upon skilled security analysts working with the system owners
+and technical experts to thoroughly identify, evaluate, and manage risk in IT systems.
+The process is extremely comprehensive, covering everything from threat source identification
+to ongoing evaluation and assessment.
+NIST IMF consists of nine steps.
+Step one, system characterization.
+Step two, threat identification.
+Three, vulnerability identification.
+Four, control analysis.
+Five, likelihood determination.
+Six, impact analysis.
+Seven, risk determination.
+Then, control recommendations.
+The last is result documentation.
+Due to its brevity and focus on more concrete components, such as systems,
+makes it a good candidate for organizations new to risk assessment.
+OCTAVE. The Software Engineering Institute, SEI, at Carnegie Mellon University,
+developed the Operationally Critical Threat, Asset,
+and Vulnerability Evaluation, OCTAVE, O-C-T-A-V-E, process.
+The main goal in developing OCTAVE is to help organizations improve their ability to manage
+and protect themselves from information security risks.
+OCTAVE is workshop based rather than tool based.
+This means that rather than including extensive security expertise in a tool,
+the participants in the risk assessment need to understand the risk and its components.
+The workshop-based approach espouses the principle
+that organization will understand the risk better than a tool
+and that decision will be made by the organization rather than by a tool.
+There are three phases of workshops.
+This one gathers knowledge about important asset, threats,
+and protection strategies from senior managers.
+In this phase, there are the following processes.
+Process one, identify senior management knowledge.
+Process two, identify operational error management knowledge.
+Process three, identify staff knowledge.
+Process four, creative threat profiles.
+In phase two, we gather knowledge from operational error managers.
+It consists two process steps.
+Process five, identify key components.
+Process six, evaluate selected components.
+In the phase three, gathers knowledge from staff.
+Phase three consists of the following processes.
+Process seven, conduct risk analysis.
+Process eight, develop protection strategy.
+And this is include Workshop A, Strategy Development; Workshop B,
+Strategy Review; and a revision approval.
+These activities produce a view of risk that takes the entire organization's viewpoints
+into account while minimizing the time of the individual participants.
+The outputs of the OCTAVE process are protection strategy, mitigation plan, and action list.
+Comparing to NIST RMF, OCTAVE uses slightly different terminology
+but follows a similar structure, where OCTAVE provides a wealth of forms,
+but NIST RMF is relatively straightforward to follow.
+The facilitated risk assessment process, FRAP, is the creation of Thomas Peltier.
+It is based upon implementing risk management techniques in a highly cost-effective way.
+FRAP uses formal qualitative risk analysis methodologies using vulnerability analysis,
+hazard impact analysis, threat analysis, and group discussions and questionnaires
+through a facilitator and a small group of subject expertise.
+Moreover, FRAP is faster and simpler than other qualitative methods,
+since it stresses pre-screening systems
+and only performing formal risk assessment on systems when warranted.
+Lastly, FRAP ties risk to impact using the business impact analysis
+as a basis for determining impact.
+Thomas Peltier has written a book on FRAP, and several consulting companies, including RSA
+and Peltier Associates, teach FRAP.
+The Consultative, Objective and Bi-functional Risk Analysis, COBRA,
+process was originally created by C&A Systems Security in 1991.
+It takes the approach that risk assessment is a business issue rather than a technical issue.
+It consists of tools that can be purchased and then utilized to perform self-assessments
+of risk while drawing on expert knowledge embedded in the tools.
+The primary knowledge bases are IT security.
+This is default database.
+Operational risk.
+Quick risk or high-level risk.
+E-Security.
+And there are two primary products -- Risk Consultant and ISO Compliance.
+Risk Consultant is a tool with knowledge bases and built-in templates that allow the user
+to create questionnaires to gather the information about the types of asset,
+vulnerabilities, threats, and controls.
+From this information, Risk Consultant can create reports
+and make recommendations, which can then be customized.
+ISO Compliance is similar, only this product is focused
+on the ISO 17799 and ISO 27000 compliance.
+Risk Watch is another tool that uses an expert knowledge database to walk the user
+through a risk assessment and provide reports on compliance
+as well as advice on managing the risk.
+Risk Watch includes statistical information to support quantitative risk assessment,
+allowing the user to show return on investment, ROI, for various strategies.
+Risk Watch has several products -- SecureWatch, CyberWatch, ComplianceWatch.
+Each focuses along different compliance needs, such as HIPAA; banking; payment card, PCI;
+nuclear cybersecurity compliances.
+There are products based on these standards, which is for U.S. Government, ISO 17799, HIPAA,
+and financial institution standards.
+In Measuring and Managing Information Risk: A FAIR Approach, authors Dr. Jack Freund
+and Jack Jones have written a magnificent book that provides a new perspective for you
+to think about deal with IT risk.
+FAIR is a methodology and a quantitative analysis tool.
+The goal of FAIR is to enable the risk practitioner
+to make well-informed decisions based on meaningful measurements.
+While that seems obvious, in practicality, it is challenging endeavor.
+FAIR takes the risk professional out of the realm of the dealing
+with risk via the checklist, which sometimes served to produce meaningless measurements,
+into the world of quantitative, defendable results.
+For those that are looking for tools to create pretty executive summary charts with lots
+of color, FAIR will slowly disappoint them.
+For those that are looking for method to understand how to calculate qualitative risk
+to support a formal enterprise risk management program,
+they won't find a better guide than this book.
+The author writes in the preface that the book is not about checklists
+and formulas but about critical thinking.
+The biggest objections to quantitative risk management are that IT risk
+or InfoSec risk cannot be measured or it's simply unknowable.
+The authors here agree that risk cannot be measured at the micro level,
+but it can be effectively measured to the degree to reduce management's uncertainty about risk.
+They also importantly know that risk is a forward-looking statement
+about what may or come to pass in the future.
+With that, perfect accuracy is impossible.
+But effective quantitative risk management is very possible.
+FAIR is an effort to shift risk management paradigm from a compliance-based
+to a risk-based approach, especially for InfoSec risk and IT risk.

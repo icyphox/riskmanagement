@@ -1,0 +1,200 @@
+>> Risk management is an ongoing, iterative, and evolving process, and each iteration breaks
+into three phases; risk assessment, risk mitigation, and risk evaluation.
+It has a continuous and repeatable life cycle, as illustrated here.
+Inside a risk assessment, first is to identify the risk and its components, such as threats,
+vulnerability, and access within a well-defined scope.
+Then, identify the risk, such as the likelihood, and analyze the impact.
+The purpose of a risk assessment is to form a comprehensive description of risks,
+determine this risk according to their impact significance, and rank them based
+on business strategy and imperatives.
+Let's use an example here.
+In IT security, vulnerability scan, such as penetration test, is a tool to identify
+and analyze the flaws that may allow the malicious attack passing
+organization's parameters.
+But, in order to determine if such a flaw really poses a problem
+for the organization is called vulnerability assessment,
+which is the second part of risk assessment phase.
+The vulnerability assessment sets the result of a scan into the context of the organization,
+then analyze the impact and assigns an urgency level.
+Therefore, in risk assessment phase, it generally uses a structured approach
+that is repeatable via a common set of [inaudible] and a matrix.
+Because it cannot be compared with other assessment outside of the organization,
+as long as the structure of the assessment and the matrix used
+to quantify the result are not standardized.
+But, managing risk requires more than understanding
+where your risk lies, and what impact it will have.
+You also need to proactively determine what to do about each risk you identified.
+If your risk assessment shows that you have unacceptable levels of risk to your business,
+then you need take some actions to account for them.
+This is the risk mitigation phase, and this is also at the core of decision-making
+that drives the resource prioritization and allocation.
+It regards the decisions on how to counter the unacceptable risk
+that include recommending countermeasures or controls to reduce the risks
+and conduct cost-benefit analysis for each countermeasure
+and prioritize the implementation plan for those controls.
+Examples of controls include policies, procedures, guidelines, technical solutions,
+or organization structures, which can be administrative, technical,
+managemental, or legal in nature.
+After these controls are implemented and deployed, we enter into the third phase,
+risk evaluation is to continue monitoring the risk
+and analyze the effectiveness of the deployed controls.
+If the risks have been mitigated to the acceptable level,
+this controls are deemed as effective.
+When the control are ineffective, or new risk are emergent,
+next round of risk assessment will then kick off, and so on and so forth.
+So, in summary, risk management is a rigorous discipline that build upon a set of principles,
+consistent terminologies, and the matrix, in an iterative, proactive structure process.
+Organizations have approached security risk management with various approaches.
+In the past, many organization are introduced to security risk management by the necessity
+of responding to a relatively small security incident,
+such as staff member's computer becomes infected with a virus,
+for example, as an reactive approach.
+Instant response process is a example of such approach.
+Typically, when a incident occurs, first you need to contain the damage, assess damage,
+and then determine the cause, repair the damages, then review response
+and update policies or procedures.
+This means that an organization that takes time to respond to security incidents in a calm
+and a rational manner while determining the underlying reasons that allowed the incident
+to transpire would be better able to both protect itself from similar problems
+in the future, and let it respond more quickly to other issues that may arise.
+The ways to determine the cause include review system configuration, patch level, system locks,
+audit locks, and audit trails on both the systems that were directly affected,
+as well as network devices that route traffic to them.
+These reviews often help you to discover where the attack originated in the system,
+and what other resources are affected.
+When it is not possible to assess the damage in a timely manner,
+you should implement a contingency plan
+so that normal business operations and productivity can continue.
+In recent years, as the volume and the frequency of cybersecurity incidents increase,
+huge amount of historical data have been gathered which dramatically help an organization
+to better predict and prepare for unforeseen problems that arise in the future,
+through anomaly detection, for instance.
+So, it should not completely forsake incident response.
+We'll cover this more in data-driven security analytics unit.
+The second category of risk management approaches are proactive with a goal to prevent
+or prepare for the future incident ahead of time.
+Inside this category, there are two distinct ways to characterize the risk.
+One is based on the quantitative research assessment.
+The other is on qualitative research assessment.
+Risk is assessed by identifying threats and the vulnerability,
+then determining the likelihood and impact for each risk.
+This is a complex undertaking, usually based on imperfect information.
+So, risk assessments involve processing a large quantity of data, often hundreds
+or even thousands of accident scenarios must be evaluate to estimate the risk of an operation.
+Risk analysts should consider the level of detail needed
+in the risk results before starting the risk assessment process.
+There are many methodologies aimed at allowing risk assessment
+to be repeatable and provide consistent results.
+Quantitative risk assessment draws upon methodologies used
+by financial institutions and insurance companies.
+By assigning values to information systems, business processes, recovery costs, etc.,
+impact, and therefore risk, can be measured in terms of direct and indirect cost.
+Quantitative risk characterization methods provide decision-makers
+with precise description of risk.
+However, this method often involve detailed studies that are very resource-intensive,
+and require substantial level of experience and expertise among analysis team members.
+Also, be careful not to confuse precise description of risk with the accuracy
+or certainty of those descriptions.
+Two common forms of quantitative risk characterizations are point risk estimates.
+An analyst team uses historical data from directly related operational experience,
+expert judgment, and data published from other applications of similar equipment
+or human activities to estimate first the frequency
+of initiating events for various accident scenarios.
+Second, the probability of a failure for each control, the effect of consequence,
+often measured in cost or injuries or death, is also estimated.
+Probability distribution.
+A risk assessment team assigns probability distributions to reflect the possible range
+of event frequencies, probabilities,
+and a consequence that may be applicable for a specific assessment.
+This method is more robust than simply selecting point estimates, as described above,
+because uncertainty associated with each key frequencies, probability,
+or consequence number is modeled.
+We'll give an overview of this method in next unit.
+Quantitative risk management is the standard way of measuring risk in many fields,
+such as a financial institution or insurance.
+>> Based on the quantitative assessment, risks can be prioritized by financial impact
+and asset financial values,
+and this quantitative result can facilitate risk management by return on security investment.
+Furthermore, accuracy tends to increase over time,
+as the organization builds historical data while gaining experiences.
+However, with the immense scale of today's open and highly interconnected cyberspace,
+there's so many unknown and diverse factors, such as global operations,
+geopolitical tensions, business partner relationship may contribute to the likelihood
+of any cyberthreat, and the cost of damages, like loss or disruption it may cause,
+are extremely difficult to measure.
+Another disadvantage is that there is no formal and rigorous way to effective calculate values
+for asset and controls, and it is also quite costly and time-consuming
+to conduct quantitative assessment.
+Therefore, quantitative assessment is not commonly used
+to measure risk in information system today.
+Qualitative risk assessment assume that there's already a great degree of uncertainty
+in the likelihood and impact values, and defines them,
+and then risks in somewhat subjective or qualitative terms.
+Similar to the issues in quantitative risk assessment, the great difficulty
+in qualitative risk assessment is defining the likelihood and impact values.
+Moreover, this value need to be defined in a manner that allows the same scales
+to be consistently used across multiple risk assessment.
+Qualitative risk assessment is usually conducted through a combination of questionnaires
+and collaborative workshops involving people from a variety of disciplines
+or groups within the organization.
+The results of qualitative risk assessments are inherently more difficult
+to concisely communicate to management.
+Qualitative risk assessment typically give risk result high, moderate, and low,
+or a scale from one to five based on expert's subjective estimation on likelihood and impact.
+However, by providing the impact and likelihood definition tables and the description
+of the impact, it is possible to adequately communicate assessment
+to the organization's management.
+As illustrated here, it is the risk matrix,
+a widely used approach in security risk assessment.
+The horizontal axis is likelihood of occurrence, and vertical is impact.
+Both are rated subjectively by human expert on a one to five scale.
+This two values are used to plot this risk matrix, which then further divided
+into sections of low, medium, and high risks.
+Events with high likelihood and high impact would be the upper right high-risk corner,
+while those with low likelihood and a low impact would be in the opposite low-risk corner.
+The idea is that the higher the score, the more important something is,
+and the sooner you should address it.
+This straightforward and intuitive representation enables great visibility
+and understanding of risk ranking, especially for people who are not expert on security.
+It is easier to reach consensus, but the drawback is
+that it provides insufficient differentiations between important risks and difficult
+to justify investment in control implementation
+because there's no basis for cost-benefit analysis.
+The results from qualitative assessment methods are dependent
+on the quality of the risk management team.
+Recall that the purpose of assessing risk is to assist decision-makers
+in determining where to direct resources.
+There are four basic strategies for managing risks; mitigation,
+transference, acceptance, avoidance.
+For each risk in the risk assessment report, a risk management strategy must be devised
+and that reduce the risk to an acceptable level for a acceptable cost.
+Mitigation is the most commonly considered risk management strategy.
+It involves fixing the flaw and providing some type of compensatory controls
+to reduce the likelihood or the impact associated with the flaw.
+A common mitigation for technical security flaw is to install a patch provided by the vendor.
+Sometimes, the process of determining mitigation strategy is called control analysis.
+Transference is a process of allowing another party to accept the risk on your behalf,
+like a car, health, and life insurance are all ways to transfer risk.
+In this cases, risk is transferred from the individual to a pool
+of insurance holders, including the insurance company.
+Note that this does not decrease the likelihood or fix any flaws,
+but it does reduce the overall impact, primarily financial impact, on organization.
+Recently, cyber-insurance is gaining momentum, as more demands from business and individuals
+to seek protection from internet-based risks.
+Acceptance is the practice of simply allowing the system to operate with a known risk.
+Many low risks are simply accepted.
+Risks that can have extremely high cost to mitigate are also often accepted.
+Be aware of high risks being accepted by management.
+Insure that the strategy is in writing, and accepted by the managers making the decision.
+Often, risks are accepted that should not have been accepted,
+and then when the penetration occurs, the IT security personnel are held responsible.
+So, typically, business managers, not IT security personnel, are the ones authorized
+to accept risk on behalf of an organization.
+Avoidance is the practice of removing the vulnerable aspect
+of the system, or even the system itself.
+For instance, during a risk assessment, a website was uncovered
+that let vendors view their invoices using a vendor ID embedded in the html filename
+as the identification, and no authentication authorization per vendor.
+When notified about web pages and the risk to the organization, management decided
+to remove the web pages and provide vendor invoices via another mechanism.
+So, in this case, the risk was avoided by removing the vulnerable web pages.

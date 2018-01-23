@@ -1,0 +1,115 @@
+>> Let's start again.
+Enter the key components and detail stats in security risk management framework.
+We'll begin with the first phase, risk assessment.
+Usually risk assessment process can be triggered by various reasons, big or small,
+such as to support a business decision.
+Like migrating our customer database to the cloud platform
+or launching an e-commerce operation.
+Or adding a mobile messaging app in our customer contact center.
+A major data breach incident reported on the news headline need to answer questions raised
+by our company's senior management team.
+Will we be breached?
+Are we better or worse?
+Did we spend enough on the right risks?
+An alert, a warning was reported
+from our continuous monitoring process due to increased risk level.
+A preschedule checkpoint for compliance requirements.
+This triggering reason defines the purpose and the scope of the risk management program.
+And who is owner or sponsor?
+Ground zero.
+Define the scope, asset, and team.
+Begin with identifying the sponsor to define what is to be accomplished,
+what questions to be answered, business operations or processes
+such as e-commerce, supply chain management.
+This is application such as a payroll processing, human resource management,
+information assets such as the customer data, credit card information.
+Physical assets such as server, data center, sub network, corporate [inaudible].
+Data gathering approach such as a questionnaire or data gathering template.
+Workshop and brainstorming.
+Here are the [inaudible] for constructing questions or brainstorming.
+Ask intentionally open ended questions and use to spark discussions.
+Keep the discussion focused on information security or cyber security or IT security.
+Ask questions around common features like policy,
+procedure, scope, past security incidence.
+Usually provide reason why you ask this or that question.
+You know that you communicate your purpose of data gathering.
+Questionnaire examples will gather [inaudible] business risks scenarios are what is the most
+important information you deal with?
+What are the most important transactions you perform?
+What assistance you rely on the most?
+If you get a hold of it, what information would you most like to know about your competitor?
+Which of the following is true about your asset
+such as information, transaction, or application?
+It gets shared with partners.
+It gets accessed by remote workers.
+It gets managed manually by non-centralized team.
+It is not subject to regular review.
+It gets managed by third party.
+Information asset classification.
+Three general purpose asset classes.
+High business impact, HBI.
+For example authentication credential.
+Highly sensitive business materials, financial profiles, medical profiles,
+personally identifiable information, asset subject to specific regulatory requirements.
+Moderate business impact, MBI.
+For example internal business information such as the employee director,
+network infrastructure designs, information internal websites.
+Low business impact, LBI.
+For example organization structure, [inaudible] cryptographic keys, product procedures,
+white papers, obsolete business information, [inaudible] access
+to publicly accessible web pages.
+Additional references for information asset classification.
+[Inaudible] special publications 800-60 workshops,
+federal information processing standard, FIPS publication 199.
+Deliverables for the staff.
+Reach agreement with owners on what assessment is to review and [inaudible] parameters.
+Assessment scope statement.
+Asset specifications and the classifications.
+Team members with defined roles and responsibility.
+A typical team formation for risk management program include the following four key roles
+and corresponding responsibilities.
+First, senior management role.
+This could be the stakeholder, decision maker, the sponsor, the risk management program.
+Who is responsible to incorporate results of risk management program
+into the decision making process.
+Properly allocate resources and fund capability development.
+Second role, information security professional.
+This could be an [inaudible] analyst who is responsible
+for organization security program including risk management.
+The person will be held liable if internal controls are not adequate.
+And has skills and knowledge in determining the probability of impact
+or the risk magnitude on business assets.
+Third role, system and information owner.
+This could be a person from business unit that own customer transaction data or owner
+of the mobile payment application, for example.
+This role responsible for determining the value of information asset.
+Ensuring the proper controls are in place to address information, CIA [phonetic] probability.
+The person also has a key role in asset classification policy and has authority
+and responsibility for making cost benefit decisions.
+Information technology engineering and operation, this is the fourth role,
+are the personnel responsible for designing and implementing technical solutions
+and estimating engineering costs.
+Design and implement operational components of solution and estimate operating costs.
+Here is an example of defined scope and asset for e-commerce operation risk assessment.
+In this assessment, the asset is identified as a consumer's personal identifiable information
+which include usernames, passwords, account information such as a credit,
+debit card numbers, address, phone number, email,
+and if you noted the second asset information in transit
+that is the purchase transaction information in transition from web page to web server then
+to database server is also in scope.
+The diagram illustrate the system architecture of this e-commerce operation
+which include an e-commerce web server, firewall,
+the database server inside the firewall which also connected with other internal computers.
+This architecture diagram defines the boundary of the environment
+in which the identified asset will be transitioning and stored.
+This table illustrate the classification
+of the identified assets along street [phonetic] properties.
+Confidentiality, integrity, and availability.
+It provides a [inaudible] asset classification scheme
+which can help more targeted risk assessment and control recommendations.
+For instance, password is classified as HBI for all CIA properties.
+Purchase transaction is LBI for confidentiality.
+MBI for availability and HBI for integrity.
+Only password and credit, debit card information are HBI in confidentiality.
+So data encryption control only need to be apply to this two
+but not the other information assets.

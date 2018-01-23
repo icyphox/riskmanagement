@@ -1,0 +1,94 @@
+>> The origins of risk management can trace back to gaming in ancient times, then the start
+of the Modern Life Insurance Company in 1700's.
+After World War II, there was a shift in risk management philosophy beyond to buy insurance.
+The introduction of operations research and the management science with advancement
+in probability theory and information theory.
+And there is an emphasis on cost benefit analysis, expected value,
+and the scientific approach to decision making under uncertainty.
+And there is a shift from descriptive to normative decision theory.
+Risk management, as a multidisciplinary subject, grew out of a merger of applications
+in the military and aerospace programs, financial theory and insurance.
+It requires a skilled individual that understands probabilities, statistics,
+finance, and information technology.
+As we briefly discussed at the last unit, risk is the existence of threats associated
+with vulnerabilities that could cause harm to an asset.
+Each risk statement must contain three primary elements, threat, vulnerability, and asset.
+If any one of these elements are missing,
+the risk statement is incomplete, or there's no risk.
+A quote says,you will never own a perfectly secure system.
+So risk is an inherent part of doing business.
+Risk advice from uncertainty surrounding business or operational decisions and outcomes,
+it refers to a problem or consequence that has not happened yet.
+Within the context of IT operations, risk is the probability,
+not the certainty of suffering a loss.
+For instance, business disruptions, financial losses, loss of privacy, damage to reputation,
+loss of confidence, legal penalties, impaired growth or loss of life,
+etc. These probable consequences can be tracked to an undesirable outcome.
+Conditions may involve threats, such as insider, like angry, dishonest employees, criminals,
+hackers, nation state vulnerability, such as software bots, broken processes,
+ineffective controls, and asset, like information or computing or fiscal entities.
+Very often, risk is thought of in terms of malicious threat, bad things happening
+to a business, but sometimes risk can have a positive side when that applies
+to value creation and risk taking for rewards, such as introducing new products,
+entering foreign markets, acquiring competitors, etc. All these are challenging endeavors
+that may bring in positive outcome.
+In order to elaborate the risk concept, I like to use the bald tire scenario from the book,
+Measuring and Managing Information Risk, A Fair Approach, by Jack Freund and Jack Jones.
+The references to this book and other related materials are in the resource section.
+As we proceed through each of the steps within in the bald tire scenario here,
+ask yourself how much risk is associated with what is being described.
+Picture in your mind is a bald car tire.
+Imagine that it is so bald you can hardly tell that it ever has tread.
+How much risk is there?
+Next, imagine that bald tire is tied to a rope hanging from a tree branch.
+How much risk is there?
+Next, imagine that the rope is frayed about halfway through just below
+where it is tied to the tree branch.
+How much risk is there?
+Finally, imagine that the tire swing is suspended
+over an 80-foot cliff with sharp rocks below it.
+How much risk is there?
+Now, identify the following components within this scenario.
+What were the asset threats, vulnerabilities, and risks?
+Most people believe the risk is high at the last stage of the bald tire scenario.
+The answer, however, is that there's a very little probability
+of significant loss given the scenario exactly as described.
+Who cares if an empty old bald tire falls to the rocks below?
+But what if someone climbs to the swing, some would say?
+And the tire is supposed to be swung on, so of course we assume
+that somebody would eventually climb on it.
+The question or assumption is how likely that could happen and how much the loss would be.
+The point is that it's very easy to make assumptions in risk assessment process.
+In order to uncover and discuss these assumptions, we need common understandings
+on these fundamental concepts about risk and what they mean in this context.
+A third point is that you can have significant risk without potential for significant loss.
+In other words, it doesn't matter how exposed to harm an asset is.
+If the asset isn't worth much, the risk isn't high.
+This is because risk always includes a value component that's the value of your asset.
+If it didn't, betting a billion dollar would be equivalent to betting one dollar.
+A final point here is that there is a tendency to equate vulnerability with risk.
+We see a frayed rope or a server that isn't properly configured
+and automatically conclude that the risk is high.
+Is there a correlation between vulnerability and risk?
+Yes. Is the correlation linear?
+No. Because vulnerability is only one component of risk.
+Threat [inaudible] frequency or likelihood
+and the loss magnitude also are key parts of the risk equation.
+So what are the assets [inaudible] vulnerability
+and the risk components within this bald tire scenario?
+Simply stated, the asset worth considering here is the bald tire.
+The threat is the earth and the force of gravity that it applies to the tire and rope.
+The potential vulnerability is the frayed rope, is regarding the potential
+for rotten tree branch, etc. Some may ask were the cliff
+or the sharp rocks a vulnerability or threat?
+We think these are environmental variables that impact the likelihood
+of a threat event and associate vulnerabilities.
+Themselves are not threat or flaws in this context.
+Then what about risk?
+Which part of the scenario represents the risk?
+Well the fact is that even a single component within the scenario that we can point to
+and say here is the risk, risk is not a thing.
+We can't see it, touch it, or measure it directly.
+Similar to speed, which is derived from distance divided by time, risk is a derived value.
+It is derived from the combination of the threat event in frequency, vulnerability,
+and asset value and the liability characteristics.

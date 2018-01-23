@@ -1,0 +1,48 @@
+>> Let's have a brief overview on a few frameworks
+and standards related with IT risk management.
+This resource could play important role for cybersecurity professionals
+in understanding what practices, guidelines, and frameworks are out there to leverage.
+ISACA's COBIT and ISO 27001 and 27002 are IT management and security frameworks
+that require organizations to have a risk management program.
+Both offer but don't require their own versions of risk management frameworks.
+COBIT has Risk IT, and ISO has ISO 27005 to 2008.
+They recommend repeatable methodologies and specify when risk assessment should take place.
+In general, all the frameworks have similar approaches,
+but differ in their high-level goals.
+OCTAVE, NIST, and ISO 27005 focus on security risk assessment, while Risk IT applies
+to the broader IT risk management space.
+Here is a brief background for COBIT framework.
+ISACA, previously known as the Information Systems Audit and Control Association,
+it provides practical guidance, benchmarks, and other effective tools for IT governance,
+security, audit, and assurance in all enterprises that use information systems.
+Now, ISACA serves 140,000 IT professional in 180 countries.
+COBIT is an IT governance framework
+and supporting tool set developed by ISACA for IT auditors.
+It is a framework for evaluating security and controls over information.
+It provides over 200 IT and application controls across many high-level IT processes and domains.
+It does not reference any specific tech knowledge, and it is very process focused.
+It is actually broader [inaudible] than the information security by itself.
+It looks at all IT-related process, focus on the bigger picture of how IT supports organization,
+such as IT is aligned with the business, IT enables the business and maximize benefits,
+IT resources are used responsibly, IT risk are managed appropriately.
+It is designed to support executive and management boards,
+business and IT management governance, assurance, control, and security professionals.
+The ISO 27000 series is designed to deal with the security, while COBIT encompasses all of IT.
+Consequently, the IT assessments risk assessment required by each corresponding to those scopes.
+In other words, risk assessment in COBIT described in Risk IT goes beyond security risks
+and includes development, business continuity, and other types of operational risk in IT,
+whereas ISO 27005 concentrates on security exclusively.
+ISO 27005 follows a similar structure to NIST, but defines terms differently.
+The framework, see the diagram, includes step such as the context establishment,
+risk identification and estimation, in which threats, vulnerability,
+and controls are considered, and the risk analysis tab that discusses
+and documents threat likelihood and business impact.
+ISO 27005 includes [inaudible] with forms and examples, but like other risk frameworks,
+it is up to the organization implementing it to evaluate or quantify risk in ways
+that are relevant to its particular business.
+Organizations that do not have a formal risk assessment [inaudible] would do well
+to review the risk assessment requirements in ISO 27001 and 27002,
+and consider the 27005 or NIST approach.
+The ISO standards provide a good justification for formal risk assessment,
+and outline requirements, while the NIST document provides a good introduction
+to risk assessment framework.

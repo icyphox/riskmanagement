@@ -1,0 +1,96 @@
+>> Risk assessment step one.
+Threat identification.
+Threat is the potential for an actor or threat source to exercise either accidental trigger
+or intentional exploit a specific vulnerability.
+Both threat sources and threats must be identified to ensure accurate assessment.
+Usually threat contains three parts.
+Threat sources, threat occurrence rate, or likelihood of frequency.
+Threat impact, its formula ALE equal V times L. V is the value of asset.
+ALE stands for annual loss exposure.
+Example. You have a $3 million data center located in the Florida area.
+A major flaw that could destroy the data center occurs once every 100 years.
+So V is $3 million.
+Likelihood, L, is 0.01.
+Estimate ALE is at $30,000.
+Actors, motivations, and threats.
+Actors like external hacker or [inaudible] motivated by curiosity, ego.
+Threat such as system hacking or social engineering.
+Internal hacker motivated by financial gain or disenchantment.
+Inside the threat such as a fraud, poor documentation.
+Cyber [inaudible] motivated by profit or ideology.
+Combat threats like distributed denial services, DDS [phonetic], fishing, ransom ware,
+credit card fraud, cyber stalking.
+Nation [inaudible] hacker motivated by power or revenge.
+Threats like critical infrastructure attacks multi stage, multi vector attacks.
+Poorly trained employee due to unintentional errors.
+Threat example like corruption of the data, malicious code introduced.
+Cracker motivated by monetary gain are authorized data alteration.
+Threats like social engineering, system intrusion, impersonation.
+Individuals who understand organization, industry, what type of system or better
+yet all three are key in identifying threats.
+Once the general list of threats has been compiled,
+review it with those most knowledgeable about the system, organization,
+or industry to gain a list of threats that applies to the systems.
+It is valuable to compile a list of threats that are present across the organization
+and use this list as the basis for all risk management activities.
+As a major consideration of risk management is to ensure consistency and repeatability,
+an organizational threat list is invaluable.
+Organizations face an evolving threat scenario that they are ill prepared to deal with.
+Threats that have -- that pass the traditional security protection techniques
+and [inaudible] are detected on their system.
+This is a quote from [inaudible] 2012.
+Verizon's 2015 data breach investigation report, DBIR, estimated a financial loss
+of over $400 million from 700 million compromised records
+which resulted from 79 security incidents.
+New threat landscape.
+Nature of threats are changing.
+Damage of [inaudible] from disruption caused by worms and viruses to cyber crime by spyware
+or bots to large scale cyber espionage by [inaudible] persistent threats,
+zero day targeted attacks, and dynamic trojans, stealth bots.
+Today's attacks are sophisticated and successful.
+Intruders are more prepared and organized.
+Attack attribution on the internet is incredibly difficult.
+Intruder tools are increasingly sophisticated yet easy to use.
+Required intruder knowledge going down and highly motivated attackers
+since attack needs to be succeed only once.
+Defense need to be right every single time.
+Due to the increasing adoption of cloud and mobile devices
+in enterprise, network parameter dissolving.
+Existing detection techniques failed in the following attacks
+such as coordinated persistent threat hackers.
+Dynamic polymorphic malware.
+Multi vector attacks, multi state attacks.
+In today's rapidly evolving threat landscape, the traditional checklist approach won't be able
+to keep up and provide timely support for new threat detection and prevention.
+Threat intelligence either as a service or tool has received a lot of attention lately.
+Simply put, threat intelligent is the knowledge
+that helps you identify security threats and make informed decisions.
+Threat intelligence can help you solve the following problems.
+How do I keep up-to-date an overwhelming amount of information
+and security threats including bad actors, methods, vulnerabilities, and targets?
+How do I get more proactive about future security threats?
+How do I inform my leaders about the dangers and the [inaudible] of specific security threats?
+Threat intelligence falls into two categories.
+Operational intelligence is produced
+by computers whereas strategically intelligence is produced by human analysts.
+The two types of threat intelligent are heavily interdependent and they both rely on the skilled
+and experienced human analysis to develop and maintain.
+Operational intelligence is produced entirely by computers from data identification
+and collection through to enrichment and analysis.
+A common example of a rational threat intelligence is automatically detection
+of distributed deny of service, DDOS, attacks whereby a comparison between indicator
+of compromises and the net [inaudible] is used
+to identify attacks much more quickly than the human analyst could.
+Strategic intelligence focuses on the much more difficult and the cumbersome process
+of identifying and analyzing threat to an organization's core asset including employees,
+customers, infrastructures, applications, and vendors.
+To achieve this highly skilled human analysts are required to develop external relationship
+and proprietary information sources.
+Identify trends.
+Educate the employees and the customers.
+Study attack [inaudible] techniques and procedures, TPP [phonetic].
+And ultimately make the defensive architecture recommendations necessary
+to combat identify threats.
+A common example of a strategic intelligence is the use of a threat actor, TTPs [phonetic],
+to inform proactive security measure such as enhanced vulnerability and the patch management
+or comprehensive security awareness training.

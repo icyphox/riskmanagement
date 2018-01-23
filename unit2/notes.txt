@@ -1,0 +1,39 @@
+- risk = threat + vuln + asset
+- risk is the probability of suffering a loss
+- it can have positive effects (taking risk thingy)
+- if the asset isn't worth much, the risk isn't high
+- vuln is only one component of risk
+- risk is a derived value, derived from the combination of the threat event in frequency, vulnerability and asset vaule and the libilty characterstics
+
+- 3 phases
+	* risk assesment
+	* risk mitigation
+	* risk evaulation
+
+- iterative and proactive
+- when an incident occurs, first contain the damage, then assess, determine the cause and then repair the damage, finally review response
+
+- first approach to risk mgmt: reactive
+- second approach: proactive
+	* quantitative risk assesment
+	* qualitative risk assesment
+
+- common tools:
+	* NIST Risk Management Framework
+	* OCTAVE by Carnegie Mellon (workshop based not tool based)
+	* FRAP (faster and simpler - ties risk to impact)
+	* COBRA by C&A Systems Security in 1991 
+	* RiskWatch
+	* Fair (book)
+- frameworks and standards
+	* COBIT by ISACA
+	* ISO 27001 and 27002
+
+- risk assesment
+	* scope out risks
+
+- threat impact:
+	* ALE = V x L
+	* ALE is Annual Loss Exposure, V is value of an asset
+	* L is likelihood
+
