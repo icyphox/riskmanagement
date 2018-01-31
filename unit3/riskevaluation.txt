@@ -1,0 +1,30 @@
+>> Now we are the last place of our risk management life cycle.
+Risk evaluation.
+It mainly encompasses continuous monitoring on the effectiveness of the proposed, then implemented,
+and finally deployed controls based on outcome of risk mitigation.
+And it can also use threat intelligence tools or services to detect the new threats
+and the vulnerability in the system.
+It can trigger the next [inaudible] of risk assessment when existing risk is
+above acceptable level or an emergent new risk is detected or identified.
+The ultimate goal of the risk assessment is
+to define the most important risk to the organization.
+The goal of risk mitigation is then to determine what should be done to address them.
+Prioritizing risks to the organization is not a simple proposition.
+The security risk management team must attempt to predict the future by estimating when
+and how potential impacts may affect organization.
+And it then must justify this predictions to the stakeholders.
+Here are some key success factors.
+First, keep the risk assessment process as simple as possible.
+Only go to detail view and add quantitative assessment aspects as necessary.
+And try to strike a balance between granularity for risk assessment and amount
+of efforts required to calculate risk.
+Second, never refer to risk management problem as my problem.
+Assemble a right team with the right mixture of expertise.
+The primary goal of a risk management program is to support business decision makings.
+Therefore, focus on the business needs not the technology excellence.
+Promote and preserve clarity regarding the logic involved
+so that stakeholders possess a clear understanding
+and keep the prior authorization logic as simple as possible in order
+to reach consensus quickly while minimizing misunderstandings.
+Tailor the basic risk management principles to your organization context.
+Avoid discussing how to address risk before you decided whether the risk is important.
