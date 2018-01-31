@@ -1,0 +1,96 @@
+>> Now, we're introducing a hypothetical example to demonstrate a concrete use case
+of the risk assessment process using a qualitative method that is based
+on the three-level -- high, medium, low -- risk matrix.
+ABC Bank is a trusted institution.
+It has many high-value assets, ranging from interest calculation systems, customer PII --
+personally identifiable information -- to consumer financial data and reputation.
+This example focuses only on one of these asset, consumer financial data, such as account number,
+account balance, and transaction history.
+The risk assessment process is triggered by compliance checkpoint requirements and sponsored
+by CFO, chief financial officer, of ABC Bank.
+At the kickoff meeting, a risk management team is formed, consists the CFO is the sponsor,
+who is the decision maker on resource prioritization and allocation.
+VP of consumer service is the asset owner, who owns the consumer financial data
+and provides the asset classification and value estimation.
+Assume we take the information security professional role, who is responsible
+for identifying threat and estimating the likelihood and the magnitude of impact.
+IT engineering team manager is also part of the assessment team, who is responsible
+for providing information regards vulnerability, and existing controls,
+and evaluation of the effectiveness.
+Later, he's also responsible for cost-benefit analysis at a risk mitigation phase.
+So the risk management team met with the CFO and confirmed with the scope
+of the risk assessment is solely on one asset, consumer financial data,
+that is stored in the internal database server within ABC Bank firewall.
+The data in transit is not in scope for this exercise.
+Later, the team also confirmed with VP of consumer services, the asset owner,
+that consumer financial data is a high-business impact, HBI,
+asset class across all CIA properties.
+Hence, we're only using one class, HBI, to represent of all asset class.
+To identify threat, use common terminology to facilitate discussions surrounding threats.
+For example, what do stakeholders want to avoid happening to various asset?
+Focus discussions on what may happen versus how it may happen.
+Phrase questions in terms of the confidentiality,
+integrity, availability of the asset.
+This example here focuses only on the threat of a loss of integrity to consumer financial data.
+Unauthorized access to consumer data through theft of financial advisor credentials.
+Additional threat may also exist surrounding the availability
+and confidentiality of consumer data.
+However, they are out of scope for this basic example in order to save time.
+For the vulnerability identification, we focus on how the threat could occur.
+There's three vulnerabilities considering the above threat.
+First is the theft of the financial advisor credentials
+by trusted employee abuse nontechnical attacks, such as social engineering or eavesdropping.
+Second vulnerability is the theft of the financial advisor credentials off LAN hosts
+through the use of outdated security configurations of antivirus signatures,
+host configurations, or outdated security patches.
+Third is the theft of financial advisor's credential off remote or mobile hosts
+as a result of outdated security configurations.
+There may be many more vulnerabilities in this scenario.
+The goal is to demonstrate how vulnerabilities are assigned to specific threats.
+Let's look at how to determine the likelihood of each threat-vulnerability pair
+when existing controls are in place.
+So this table shows four TV pair based on the basic ABC Bank example we just mentioned.
+The risk management team work together through a combination of a questionnaire
+and brainstorming workshops and meetings.
+Collectively, they identify the exposure level for each given TV pair,
+assuming this level definitions are given.
+This exposure levels provide the extent of asset damage
+if being successfully attacked without any control in place.
+The likelihood in the rightmost column is different from exposure level
+since it represent the likelihood of each TV pair successfully exercised on the asset
+when existing controls are in place, assuming the definitions for HML likelihood are given,
+as in previous sample table provided in step three of risk assessment phase.
+This likelihood will be later used in the impact analysis.
+In this example, the unauthorized exercise access to consumer financial data through theft
+of financial advisor credentials through remote compromise with existing controls
+on remote host configurations and the likelihood of it successfully exercised is high.
+Well, the theft through LAN-managed devices has high exposure rating.
+But with existing controls in LAN network,
+the likelihood of it successfully exercised is medium.
+For impact analysis, assuming based on the sample definitions on impact high, medium,
+low levels and the specific effect for ABC Bank based on asset consumer financial data,
+each TV pair identified in assessment table, the impact effect can be estimated based
+on the likelihood and asset value and then captured
+in the rightmost column by the risk management team.
+The impact from the unauthorized access to consumer financial data through the theft
+of the financial advisor credentials through both remote compromise
+and the LAN-managed devices are high, according to the impact rating definitions,
+while the impact from employee abuse
+and man-in-middle attack are medium and low, respectively.
+For risk determination, we use the qualitative risk matrix introduced earlier.
+It is quite straightforward to determine the risk level -- high, medium, low --
+based on the likelihood column and impact rating column
+through a lookup on the given risk matrix.
+Now, this table contains all necessary components for the well-formed risk statements,
+such as asset name, classification, threat, vulnerability, existing controls,
+and the derived likelihood on the impact rating.
+Then, finally, the risk level is determined and documented.
+The risk ranking is the most important result from the risk assessment phase.
+In this basic example, two high risks have been identified.
+They are the unauthorized access to consumer data through the theft
+of the financial advisor credentials due to remote compromise and the LAN compromise.
+This risk due to the password theft through employee is medium.
+The risk due to the man in the middle is low.
+The final risk assessment report will consist of the well-formed risk statement in table
+or paragraphs reading; consistent definitions on exposure level, likelihood level, impact level
+or effects; risk matrix used to determine the risk level from impact and the likelihood.

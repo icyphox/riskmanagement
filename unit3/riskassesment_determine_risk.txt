@@ -1,0 +1,66 @@
+>> Determining risk is the final step in risk assessments phase.
+It is a process of determining the likelihood of the threat being exercised
+against the vulnerability and the resulting impact from a successful compromise.
+When assessing likelihood and impact,
+take the current threat environment and controls into consideration.
+Likelihood and impact are assessed on the system as it is operating at the time of assessment.
+But remember, do not take any planned controls into consideration.
+Here's a sample risk determination matrix that can be used to evaluate risk
+when using a three-level rating system, such as a high, medium, low,
+for likelihood, impact, and derived risk.
+This is a general scheme of qualitative risk assessment.
+From this matrix, high risk is the high likelihood of a successful exercised threat
+that could result in high or medium impact or medium likelihood
+of successfully exercised threat that could result in high impact.
+Likewise, medium risk is the high likelihood low impact,
+or medium likelihood medium impact, or low likelihood high impact.
+So on, so forth for low risk.
+In a qualitative risk assessment, it is best not to use numbers when assessing risk,
+even though sometimes a scale of one to five could be used.
+Managers, especially the senior managements that make decisions concerning resource allocation,
+often assume more accuracy than is actually conveyed
+when reviewing a risk assessment report containing numerical values.
+Recall that in qualitative risk assessment, the likelihood and the impact value are based
+on the best available information, which is not typically well grounded
+in documented past occurrence.
+The concept of not providing any more granularity in risk assessment reports
+than was available during the assessment process is roughly analogous to the use
+of significant digits in physics and chemistry.
+Roughly speaking, significant digits are the digits in the measurement that are reliable.
+Therefore, it is impossible to get any more accuracy from the result
+than was available from the source data.
+So following this logic, if likelihood and impact will evaluate on the low, medium,
+high basis, risk would also be low, medium, high.
+If the risk assessment report does not clearly communicate the proper level of granularity,
+the number of impact and the likelihood rating levels should be increased.
+Some organization prefer to use four- or even five-level rating for impact and likelihood.
+However, understand that individual impact
+and likelihood levels must still be concisely defined.
+Risk must also be communicated.
+Once risk is understood, risks and the risk management strategies must be clearly
+communicated to organizational management team in terms of easily understandable
+to organizational management team.
+Managers are used to managing risk.
+They do it every day.
+So presenting risk in a way that they will understand is key.
+Ensure you do not try to using fear, uncertainty, and doubt.
+Instead, present risk in terms of likelihood and impact, and the more concrete the terms are,
+the more likely organizational management team will understand
+and accept the findings and the recommendations.
+Regardless of qualitative or quantitative schemes,
+the well-formed risk statement should contain the estimated of magnitude of impact
+and likelihood of the successfully exercised threats, and their corresponding definitions
+or formulas based on identified threat, vulnerability, existing controls, and asset.
+The well-formed risk statements at output of risk assessment phase,
+upon which the following risk mitigation phase will be based.
+By now, we have gone through the entire risk assessment phase.
+Let's have a recap.
+There are following steps in the risk assessment phase.
+Risk assessment is triggered with a defined scope, asset, and team formation.
+To identify risk, we need to conduct threat and vulnerability identification.
+To characterize risk, we need to determine the likelihood of successfully exercised threat
+and estimate the impact's magnitude.
+Finally, determine risk and put together well-formed risk statements to communicate risk
+to the business stakeholders and sponsors.
+The well-formed risk statements generated
+from risk assessment phase provide a base for risk mitigation phase.

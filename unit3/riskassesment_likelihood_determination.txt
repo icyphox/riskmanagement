@@ -1,0 +1,74 @@
+>> Step three in risk assessment, likelihood determination.
+Determining likelihood is fairly straightforward.
+It is the probably that the threat caused by a threat source will occur
+against a vulnerability with existing controls in place.
+In order to ensure that risk assessments are consistent, it is an excellent idea
+to utilize a standard definition of likelihood on all risk assessments.
+Here is the sample likelihood definitions.
+High likelihood.
+The threat source is highly motivated and is sufficiently capable,
+and controls to prevent the vulnerability from being exercised are ineffective.
+Likely, like 76 to 100% chance of successful exercise of threat within one year.
+Medium likelihood.
+The threat source is motivated and capable, and controls are in place
+that may impede successful exercise of the vulnerability.
+Probable, 26 to 75% of chance of successful exercise of a threat within one year.
+Low likelihood.
+The threat source lacks motivation or capable, or controls are in place to prevent
+or at least significantly impede the vulnerability from being exercised.
+Not probable, zero to 25% chance of successful exercise of threat within one year.
+Be very careful in setting up the likelihood definitions.
+The sample likelihood definitions above show a bell curve
+with a medium likelihood being twice as significant as a low or high.
+This may be an unfair characterization for particular organization that prefers
+to use a straight curve, such as low means zero to 20, 33%,
+medium from 34 to 66%, high is from 67 to 100%.
+Or perhaps five levels likelihood, such as very low, low, medium, high, and very high.
+The most important thing is to make sure that the definitions are consistently used,
+clearly communicated, agreed upon, and understood by the team performing the assessment
+and by the organization management.
+Please take note that in the simple likelihood definitions, the existing controls,
+whether they may prevent or impede the threats, are being taken into account.
+Usually, you can identify the existing controls from security requirement checklists
+or previous risk assessment activities.
+We'll discuss the general control framework at risk mitigation section.
+Step four in risk assessment, impact analysis.
+To determine the adverse impact resulting from a successful threat exercise
+of a vulnerability, here is the formula.
+Magnitude of impact equal likelihood times value.
+The measurement of magnitude of impact, which can be used in the cost-benefit analysis
+of recommended control for risk mitigation decision.
+Some tangible impact can be measured quantitatively in lost revenue,
+the cost of repairing the system, or the level of effort required
+to correct problems caused by successful threat action.
+Other impact, such as loss of a public confidence, loss of credibility,
+damage to an organization's interest or reputation, cannot be measured in specific units
+but can be qualified or described in terms of qualitative categories,
+such as a high, medium, and low impact.
+Impact can be described in terms of loss or degradation of any or combination of any
+of the following security goals -- confidentiality, integrity, availability.
+We'll use CIA for short.
+To illustrate a workable approach, we evaluate impact by focusing attention
+on these three aspect of information security, CIA.
+Here is a simple set of definitions.
+High impact for CIA defined as the loss of CIA leads
+to a severe effect on organization, respectively.
+Medium impact for CIA is defined as a loss of CIA leads
+to a serious effect on the organization.
+Low impact for CIA is defined as a loss of CIA leads to a limited impact on organization.
+However, in order to be meaningful, reusable, and easily communicated,
+specific rating should be produced for the entire organization.
+Here are example of organizational effect shows the specific values for high effect
+for mission capability is defined as long-term loss of one
+or more primary mission capabilities.
+Medium effect for mission capability is defined as a long-term loss of one or more,
+minor or temporary loss of one or more primary mission capabilities.
+Low effect for mission capability is defined as temporary loss of one
+or more minor mission capabilities.
+So this high, medium, low effect on financial loss or damages
+to organization asset are quite straightforward.
+So are the effect on human life.
+So we won't repeat these definitions here.
+You can take a look at the slides for details later.
+Finally, the output of this step is impact statement,
+either in word sentences or summary table.

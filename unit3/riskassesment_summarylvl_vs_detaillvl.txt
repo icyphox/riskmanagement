@@ -1,0 +1,76 @@
+>> Depending on the needs, people sometimes conduct risk assessment
+at the summary level first.
+To produce a list of prioritized risk very quickly.
+This is analogous to the triage procedures that hospital emergency room to ensure
+that they can help patients in greatest need first.
+It allows team to quickly triage risks in order to identify the high and moderate risks
+which enables the team to focus its efforts not only the risks deemed most important.
+However, the drawback is that it yields a list of the containing only high level comparisons
+between risks and lacks sufficient guidance for risk mitigation decisions.
+The detailed risk level view enables stack ranking of risks
+and also includes a more detailed view of that potential financial impact from the risk.
+So this quantitative element facilitates cost
+of control decisions in the decision support process.
+On an active site, it is very time consuming.
+Some organizations may choose not to produce a summary level risk list at all.
+Without consideration, it may seem
+that the strategy would save time upfront but this is not the case.
+Minimizing the number of risks in the detail level risk ultimately makes the risk management
+process more efficient.
+A primary goal of risk management process is to simplify the risk assessment process
+by striking a balance between added granularity for risk analysis and amount
+of effort require to calculate risk.
+Simultaneously it endeavors to promote and preserve clarity regarding the logic involved.
+So the stakeholders possess a clear understanding of risk to the organizations.
+Detail level assessment can be triggered after review the summary results with stakeholders.
+The primary goal is to enable the organization
+to understand the rationale behind the most important risk to the company.
+It leverage many of the inputs using the summary level list.
+However, the detail review requires to be more specific
+in its impact and the likelihood descriptions.
+And it also requires for six statements on the effectiveness of the current control.
+And it delivers an estimate of each risk in quantifiable monetary terms.
+There are some criteria for selecting risk from summary level.
+For example, high level risk means every risk rated
+as high must be included on the detail list.
+Borderline risk, in some organization, even more --
+or moderated risk may be included in the detail list.
+Controversial risks.
+If a risk is new, not well understand, or viewed differently by different stakeholders,
+this all can be selected for detail risk review.
+As a best practice, become familiar
+with the detail risk assessment before the data gathering process.
+This helps the security risk management team ask specific questions during the initial data
+gathering discussions with stakeholders.
+And minimizes the need for follow up meetings.
+If a major security group owns the prior authorization process
+and should tailor the prior authorization attributes as needed.
+For example, you could modify the figures to focus on applications specific vulnerabilities
+versus enterprise infrastructure vulnerabilities
+if the assessment scope focus on application development.
+The goal is to have a consistent collection of a criteria
+for evaluating risk in your environment.
+In the ABC Bank example, let's take a detail level view on two high risks identified earlier,
+remote host compromise, land host compromise.
+We need to get into deeper on how to determine the likelihood from two perspectives.
+First, the likelihood of vulnerability based on its attribute
+and the possible exploits such as attack of population.
+The likelihood of exploit increases as attacker population increases
+in size and technical skill level.
+Remote versus local access.
+The likelihood of a normally increase if a vulnerability can be exploited remotely.
+Visibility of exploit.
+The likelihood normally increases if the exploit is well known and topically available.
+Automation of exploit.
+The likelihood increases if an exploit can be programmed to automatically seek
+out vulnerabilities across large environments.
+Second, the likelihood of vulnerability based on effectiveness of current controls.
+A set of questions can be designed to evaluate the effectiveness of existing controls.
+We'll discuss this in risk mitigation section.
+In addition to likelihood details, we can also determine the impact
+through a quantitative scheme.
+Conduct exposure ratings for loss of integrity, confidentiality, and availability separately.
+Exposure factor which measures the extent of damage to the asset, 100% to 20%.
+You adjust accordingly to your organization.
+Quantify impact class value for asset class.
+Use the formula impact equal impact class value times exposure factor to quantify the impact.
