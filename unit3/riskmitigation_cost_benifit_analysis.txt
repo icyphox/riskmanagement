@@ -1,0 +1,93 @@
+>> The cost benefit analysis provides a consistent, comprehensive structure
+for identifying, scoping, and selecting the most effective and cost efficient mitigation solution
+to reduce risk to an acceptable level.
+Asset owner owns the cost benefit analysis for the assets.
+Security professional is to recommend and evaluate control solutions
+and define the functional requirements for the controls for each risk.
+And using a quantitative approach
+since qualitative approach doesn't assign hard financial value to assets,
+expected losses, and cost of controls.
+Instead you just calculate a relative value because there's no basis
+for cost benefit analysis for qualitative approach, it is very difficult
+to justify investing in control implementation.
+So here we'll use an ALE, annual loss exposure, based quantitative approach.
+Risk level before control.
+Risk level after control.
+And the cost of control.
+Quantitative asset valuation.
+First how to determine the overall value in direct financial terms?
+For example, an e-commerce website 7/24 generating an average
+of $2,000 per hour in revenue.
+Simply assume the website generates a constant rate per hour.
+Then the annual value of a website in terms
+of sales revenue equal 2,000 time 24 times 365 which is about 17 million.
+Compute the immediate financial impact of losing the asset.
+For example, if the website becomes unavailable for six hours,
+the calculated exposure equals 6 divided by 24 times 365.
+So it's about 0.7%.
+Direct revenue can be computed accordingly.
+The website may have some permanent loss of users.
+Calculating the revenue loss is actually quite complex is you want to be precise
+and consider all potential types of loss.
+Determine the indirect business impact of losing the asset.
+The company estimates that it would spend $10,000 on advertising
+to counteract the negative publicities from such an incident.
+Additionally, the company also estimates a loss of 1% of annual sales or about $175,000.
+So the total indirect loss can be the sum of both components.
+Determine the single loss expectancy, SLE.
+SLE is the total amount of revenue that is lost from a single occurrence of the risk.
+SLE is similar to the impact of a qualitative risk analysis.
+SLE equal asset value timed exposure factor, EF, where EF represent the percentage of loss
+that this realized threat could have on a certain asset.
+For example, if a company has an asset value of $150,000 and a fire result
+in damages worth an estimate 25% of its value, SLE equal 115 --
+150,000 times 25% which is about $37,500.
+Determine the annual rate of occurrence, ARO.
+ARO is the number of times that you reasonably expect the risk to occur during one year.
+Making this estimate is very difficult because there's a very little actual data available.
+To estimate the ARO, draw on your past experience
+and consult security risk management experts and consultants.
+ARO is similar to the probability or likelihood
+of a qualitative risk analysis ranging from 1 to 100%.
+Determine the annual loss expectancy, ALE.
+ALE is a total amount of money that your organization will lose in one year
+if nothing is done to mitigate the risk.
+ALE equal SLE times ARO.
+ALE provides a value that your organization can work with to budget what it will cost
+to establish controls or safeguards to prevent this type of damage.
+For example, if a fire at the same company results in $37,500 in damages and the likelihood
+of ARO value is over 1.1, 0.1 indicating once in 10 years.
+Then the ALE value is about $3,750.
+Determining cost of controls.
+It requires accurate estimates of how much acquiring, testing, deploying, operating,
+and maintaining each control would cost such as buying or developing the control solution,
+deploying and configuring the control solution, maintaining the control solution,
+communicating new policies or procedures related to the new controls to users.
+And training users and IT staff on how to use and support these new controls.
+Monitoring controls.
+Contending with the loss of convenience or productivity that the control might impose.
+Return on security investment, ROSI.
+ROSI equal ALE before control minus ALE after control minus annual cost of the control.
+ROSI is cost benefit analysis to demonstrate the cost of implementing the controls
+that can be justified by the reduction in the level of the risk.
+For example, the ALE of the threat of an attacker bringing down a web server is
+about $12,000 and after the suggested safeguard or control is implemented,
+the ALE is value at $30,000 and the annual cost of maintenance
+and operating of the safeguard is about $650.
+So the ROSI will be around $8,350.
+Now based on the ROSI analysis, how to define an acceptable level of risk.
+It is management's responsibility to set their company's level of risk to ensure
+that the company meets this business objectives and goals.
+As a security professional it is your responsibility to work with management team
+and help them understand what it means to define an acceptable level of risk
+and how underlying security threats can negatively affect business objectives.
+Each company has its own acceptable risk level which is derived
+from its legal regulatory compliance responsibilities.
+Its threat profile and its business drivers and impacts.
+It is important to understand the symbiotic relationship between the business drivers
+and the security issues that can affect them.
+A company is not in business to be secure.
+It is in business to be profitable.
+A security professional may be an expert in [inaudible] vulnerability management
+and ideas technologist but if this knowledge is applied in a vacuum devoid of business goals,
+a company will end up wasting money and time in its security efforts.

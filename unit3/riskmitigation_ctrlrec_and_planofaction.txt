@@ -1,0 +1,106 @@
+>> If your risk assessment shows that you have unacceptable high levels of risk
+to your business, then you need to take some action to counter them.
+Risk mitigation is a systematic methodology used by senior management and asset owners
+to reduce the risk through -- first, reduce the probability or likelihood
+of the risk that affecting your business.
+Second, limit the impact of the risk if it does occur.
+There is three main steps in risk mitigation.
+Recommend controls to reduce the likelihood component
+and impact magnitude component in risk equation.
+Cost benefit analysis for each recommended control.
+Prioritize the controls and design an implementation plan including cost and timeline.
+Mitigation process will evaluate, prioritize, and implement the recommended policy, procedure,
+and the technical security solutions.
+There are many types of security controls that can be implemented to protect company assets.
+Each control is one or more of the following category types.
+Compensating controls provides an alternative measure of control that is deemed too difficult
+or impractical to implement at the present time.
+For instance, data encryption can be difficult and expensive to implement.
+As frequently the case, multiple compensating controls may be required to provide security
+that is equivalent to the control being replaced.
+Compensating controls in lieu of comprehensive data encryption might include the use
+of a database applications and the services, network access control,
+data leak prevention strategies, and email encryption.
+Detective controls.
+It helps identify an attacker's activities and potentially an intruder
+such as intrusion detection system, IDS, security information and event management, SIEM,
+thread intelligence based on big data analytics for security.
+Recovery controls.
+Intended to bring environment back to regular operations such as system backup policy,
+disaster recovery, incident response process.
+Corrective controls.
+Fixes components or systems after an incident has occurred.
+For instance, complete changes to IT access list if individual's role change.
+Preventive controls.
+Intended to avoid an incident from occurring such as the firewalls, defense, in-depth,
+access control, code reviews, unit testing, principle of list privilege,
+secure coding principles to avoid [inaudible] overflows,
+format [inaudible] vulnerabilities, and a code or command injection.
+Deterrent controls intended to discourage a potential attacker.
+This could be a posted warning notice to would be attacker that they will be prosecuted
+to the fullness extent of the law.
+One other valuable distinction to be made
+with controls is whether they are manual or automated.
+A business can implement the manual controls to minimize the chances of fraudulent payments
+such as requiring an administrator and a manager to manually signed applicable paperwork
+to indicate that the transaction was authorized and approved.
+As an alternative, the business could automate this controls by introducing a computer program
+with a logical [inaudible], segregation of duties, and the maker [inaudible] controls.
+The following represent a simple list of the primary controls
+for the land host compromise from ABC Bank example exercise.
+Financial advisor can only access accounts they own thus exposure is less than 100%.
+This is preventive control.
+Email notice to patch or update host proactively sent to all users.
+Preventive control.
+The status of antivirus and security updates are measured on the land every few hours.
+This control reduce the time window when land host are vulnerable to attacks.
+So this is detective and corrective controls.
+Look at technical and process controls surrounding an asset
+and consider the effectiveness in defending
+against the threat's vulnerability pair defined earlier.
+Technical controls like authentication, authorization, intrusion detection,
+network filtering, and routing, and encryption are considered in this space of the assessment.
+It's important, however, not to stop there.
+Business control like [inaudible] of multiple path of transactions, manual review,
+and approval of activities, and audits can often be more effective in preventing
+or detecting attacks or errors than technical controls.
+The multidisciplinary risk assessment team is designed to bring both types of controls
+into consideration when determining the effectiveness of controls.
+At the conclusion of this step, the assessment team documents the controls associated
+with the asset and the effectiveness in defending against the particular threats.
+There are many ways to measure the effectiveness control.
+One common way is to design a set of questions.
+Each of which characterize common control categories and properties.
+For instance, accountabilities, awareness, communication,
+compliance process, audit practice.
+The description field for each question can be customized [inaudible] your identified risk.
+For instance, the land host compromise risk in ABC Bank example,
+the first question can be is accountability defined and enforced effectively?
+You can tailor the description to policy creation
+and host compliance accountability are well defined as a desired and effective control.
+If answer is yes according to this description, that means the effective control is in place.
+So assigned value 0 since the lower value number means control is more effective.
+And may reduce the likelihood of an exploit occurring.
+If answer is no, then assign 1 value.
+Each question has different value assignment depending on the question and the description.
+Please know that this value is subjective in nature and depending on the experience
+of security risk management team to understand its controlled environment.
+A plan of action at a milestone, POAM, poam,
+should be part of the risk mitigation report presented to management team.
+The POAM is a tool to communicate to management on the proposed and actual completion
+of the implementation of the risk management strategies such as recommended policy,
+procedures, and technical controls from earlier steps.
+For instance, in ABC Bank example, the recommended control
+for remote compromise [inaudible] are two fact authentication.
+A POAM needs to put together to implement two fact authentication.
+It should contain the risk it tries to mitigate.
+The point of the contact responsible for implementing the strategy,
+the resources required, and the various milestone that compromised the implementation.
+For each milestone, a target completion date and actual completion date is listed.
+Note that the POAM is a tool to communicate
+to management rather than a project management plan.
+The first step in implementing risk management strategies is
+to get management team to approve the POAM.
+Afterwards, the various individuals and teams report upon their progress.
+This, in turn, is reported to management and tracked as a part
+of the ongoing process of risk management.
