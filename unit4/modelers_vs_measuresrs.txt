@@ -1,0 +1,79 @@
+>> Information security risk management is about supporting decision making under uncertainty,
+there are two approaches can be used to handle uncertainty.
+One is modeling approach or called modelers approach.
+Some well-formed modeling can help us figure out what good metrics ought to look like.
+This is a top down approach that defines security metrics from the point view
+of the modeling threats, risk and the loses.
+And asking question like why things happen?
+Using risk equation, loss expectancy,
+linear algebra, economic incentives and so on.
+It is similar to the mindset of scientific theorist that define the hypothesis
+or the model first and then designed experiments and collect data to prove the hypothesis.
+Another approach is data driven approach or called measurers approach.
+It is a bottom up approach and is similar to the mindset of experimentalists.
+And purely driven by observations and imperial data.
+And then apply time serious analyses,
+correlation analysis' for example to derived metrics.
+What constitute the good metrics then?
+Good metrics should be consistently measured without subjective criteria.
+For example metrics versus ratings.
+Ratings are subjective to human judgement, which often not repeatable, nor consistent.
+Good metrics are cheap to gather in terms of time and the money.
+Preferably in that automated way with a short sampling intervals.
+The table here shows some examples security metrics can be used
+for security management decisions in operations management, program planning,
+strategic planning, crisis management based on the measurement frequency
+and importance of the measurement.
+For instance metrics with a high frequent measurements and the relative low importance
+such as anti-malware data, network operations and traffics,
+security operations, maintenance or housekeeping.
+This metrics can be used for operations management decision making.
+metrics with a frequency, high frequency measure and the relatively high important
+such as the threat metrics in trucing detection.
+This metrics can be used for crisis management decision making.
+So please read examples listed under strategic planning and program planning offline.
+Furthermore good metrics I express as a cardinal number of percentage.
+Not with qualitative labels like high, medium or low.
+They are expressed using at least one unit of measure such as a defects,
+hours or dollars for benchmarking purpose.
+Two units of measure are better.
+For example number of application security defects per 1,000 lines of code.
+metrics with a short sampling intervals help companies analyze their security effectiveness
+on a day to day and week to week basis, rather than through a whole year review.
+They are contextually specific.
+Relevant enough to decision makers so that they can take actions.
+For instance; scoping the average number of attacks down to business unit,
+to make specific decisions about security provisioning and the staffing.
+Rather than using the general average number of attack.
+Good metric out to pass the smell tests.
+So what are the bad metrics example?
+Bad metrics are often vague and confusion.
+They are inconsistently measured such as ratings oriented metrics.
+They are very useful for taking organizations temperature, but they are not good metrics.
+Bad metrics cannot be gathered cheaply.
+We often call them expensive metrics.
+For instance for metrics that are more operational or diagnostic in nature,
+long sampling intervals when not cotted [assumed spelling].
+That match do not express results with the cardinal number and the units of measures.
+For instance subjective scores,
+numerical equivalence are functionally equivalent to ratings.
+So what are not metrics?
+ISO 17799 defines a structure approach to framing
+and addressing the problem space of information security.
+It provides that an excellent lens for viewing the subject of information security.
+It carves the security problem space into a taxonomy of ten subject domains ranging
+from security policy to physical policy, access control and the system development.
+The subject domains break down into about 150 control areas.
+There are many so-called metrics project focused
+on subjective assessments against an establish taxonomy.
+Self-assessment tool designed to quantify risk based on the ISO sender and AOE method.
+ISO 17799 is a well-structured security taxonomy and is often used
+as the guidelines for assessing compliance with good industry practices,
+but it is not a metrics framework.
+Since its excessive focus on audit, such as security control requirements,
+but no practical recommendations.
+And it contains subjective success criteria.
+Even though they are highly descriptive, but rarely prescriptive
+and it pays insufficient attention to measurements.
+AOE model, the impact, the security events have on asset.
+The numbers using AOE are not metrics.

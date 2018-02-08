@@ -1,0 +1,118 @@
+>> Because of the history and the long tenure and corporate budgets, and the relative maturity
+of the tool, for example, antivirus, anti-spyware, vulnerability scanning tools,
+patch management software, matrix for parameter security are arguably the best understood
+of all security measures.
+This table shows a representative list of a parameter defense matrix.
+Most of these matrix should be familiar to most security professionals.
+It includes four subsections.
+Emails, antivirus and anti-spyware, firewall and network parameter.
+Attacks. Each row in the table represents a specific matrix which has three properties,
+each per column from left to right.
+Matrix and its unit of measure.
+Purpose and sources is a representative list of the typical sources
+that are systems originating the matrix.
+Matrix may not always seem intuitively obvious but most
+of the matrix should be fairly self-explanatory.
+As you read through the email section of the table, you'll recognize some familiar matrix.
+A classic set of spam and gateway antivirus matrix,
+such as percentage of spam detected and filtered.
+The number of viruses and spyware detected in email messages.
+Research by the Robot Francis Group show that 77%
+of organizations track the first matrix and that 92% track the second.
+But it is dangerous to read too much into this.
+For example, the percentage of emails that are spam is often paraded around as evidence
+that the spam-controlled software is doing its job.
+But that matrix really does not tell us much about the software's accuracy,
+only about overall level of pollution in the email system.
+In other words, it is an environmental indicator but not necessarily a measure of effectiveness.
+A better measure of effectiveness is either the percentage of missed spam as reported
+by the end-user, or the percentage of a false positive, that is the messages that were marked
+as spam that were not actually spam.
+A minority of companies watch this matrix; 39% and 31% respectively.
+Both of these measures can be used other
+and the two together comprise what is called the spam detection miss rate matrix.
+Under the [inaudible] degree of antivirus and anti-spyware matrix are the usual fun facts.
+The number of distinct pieces of malware detected by the antimalware software scans.
+This data are usually gathered from desktop and server antimalware systems.
+But with a little enrichment from manual data sources
+and trouble ticketing system, we can add more context.
+For example, the virus incidence requiring manual clean-up matrix tells us
+which virus outbreaks were bad enough that automated quarantine
+and removal process could not contain them.
+Dividing the number of incidence that required human intervention into the total number
+of incidence gives us a much more honest assessment
+of the effectiveness of the antivirus system.
+Labor costs associated with the manual clean-up efforts also can give an organization a sense
+of where its [inaudible] and fixed dollars are going.
+Another twist can be added to the traditional antivirus statistic is a simple matrix
+documenting the number of outbound viruses or spyware samples caught
+by the parameter [inaudible] gateways content, filtering software.
+What it matters, it is simple.
+It is an excellent indicator of how clean the internal network is.
+Organizations that practice good hygiene don't infect their neighbors and business partners.
+Here's a quote from the chief security officer, CSO, of a Wall Street investment bank.
+"Last year we stopped 70,000 inbound viruses.
+But I'm oh so prouder of having stopped 500 outbound."
+In other words the bank's internal network is cleaner
+than outside environment by a factor of 140 to 1.
+Let's look at a firewall and network parameter matrix for a moment.
+Recall that firewalls are rarely in and off themselves deterrent
+to attacks at business [inaudible] layer.
+That said, they do serve an essential function by keeping unwanted internet traffic away
+from protected network assets such as application servers.
+The converse is also true.
+Firewalls also let traffic in.
+In many corporations the firewall rules can be extremely complex,
+as a result of a continuous organic growth in the number
+of access requests from business units.
+For example, one aerospace company has over 50,000 active firewall rules and a less
+than clear understanding of exactly which business units all those rules are for.
+Rhonda MacLean, CEO of MacLean Risk Partners and former CSO of Bank of America,
+turned firewall rule management into a creative set of matrix, which have been captured here
+in the table as firewall rule changes and firewall labor matrix.
+Rhonda's team counted the number and cost of changes in absolute terms to provide a view
+of the level of efforts required to respond to new business requirements.
+They also broke down these numbers by business unit to encourage accountability
+and to justify the charge back for services rendered.
+In the firewall and network parameter section, you will know two other matrix.
+The first one counts the number of open, wireless access points
+when organizations remoter office.
+By open we mean not requiring WEP, WPA or RADIUS password, and without restricting access
+by means of such MAC address filtering.
+This isn't necessarily the most critical matrix for every organization.
+But it can represent a security risk for firms with many far-flung offices
+in urban environments, especially when considered in combination with other matrix,
+namely the number of remote offices connected directly to core transaction networks.
+For example, one electronic manufacturer found multiple open wireless access points
+in several overseas locations.
+In several cases, these locations were in dense, urban neighborhoods.
+Anybody with a laptop could obtain an IP address and sniff around internal network.
+Even worse the company had no concept of network zoning.
+It didn't place any firewalls between the remote locations
+and its core enterprise resource planning, ERP, financial and customer relationship management,
+CRM, and other management systems.
+Quantifying security attacks is a difficult task, but it is getting easier due
+to the improved accuracy of intrusion detection software.
+Many security vendors and their SEIM software can identify attacks
+by filtering security information into three levels of [inaudible].
+The lowest level security events, feed into the SEIM from source system.
+This event, a process, by SEIM and are not necessarily intended to be viewed by humans.
+If certain types of events correlate strongly, the system generates an alert and forwards
+to a security dashboard along with the supporting data.
+If the incident response team feels
+that alert represents an actual attack they can create an incident.
+Naturally we can add and should count all these items.
+About 85% organization count incidents.
+Over half, 54%, also count successful attacks.
+These statistics are also interesting in relation to each other.
+When the [inaudible] of event and incident data can be scoped down to a well understood
+and well defined group of assets, such as a public web service.
+We can use these numbers to create a funnel that shows duration of internet web sessions
+to suspected attackers and actual manually investigated attackers.
+You will note that in attacks section, there's a common statistic
+such as the most commonly attacked ports and the most dangerous external URLs.
+These are omitted deliberately because they do not pass the, so what, test.
+Since the typical top ten ports or top ten attacking IP address,
+top ten URLs are really just watch lists, we don't consider them compelling matrix,
+since it is more important to measure operational efficiency
+and the effectiveness of their control environment.

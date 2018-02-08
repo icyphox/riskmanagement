@@ -1,0 +1,92 @@
+>> What's wrong with this formula that we discuss
+in cost-benefit analyst section of risk mitigation phase?
+As we know that annual loss expectancy, ALE, is a popular paradigm
+in information security assessment field.
+It models the impact that security events have on assets.
+Also, ALE is a relatively easy and simple algebra formula that multiplies the value
+over discrete loss event, SLE, by its expected annual occurrence.
+The problem with ALE, as people simply put, there are lots of guesswork.
+All the numbers are poorly understood.
+Have the following aspects.
+Firstly, ALE has the inherent difficulty in modeling outliers.
+Security events are low-frequency and high severity.
+Outliers dominate loss events.
+Hard to characterize a typical loss event.
+ALE model encourages practitioners to think about dollar impact on an aggregate,
+average basis, in spite of the fact that the losses do not navigate to the middle.
+They cluster on the far edges.
+Secondly, the lack of data for estimating probability or likelihood
+of occurrence or loss expectancies.
+Thirdly, sensitivity of the ALE model to small changes in assumptions
+because ALE model contains only a few variables.
+So why security metrics then?
+Security is not a product.
+It is a process like we said.
+We often need to answer the question like the following: is my security better this year?
+What am I getting for my security dollars?
+How do I compare with my peers?
+Security risk management is about decision-making.
+And it requires the balancing the cost of countermeasures against the cost of risk.
+Like any other business decision-making, it is precisely the point of any measurement exercise.
+ISO 17799 acknowledges a comprehensive and balanced system of measurement,
+which is used to evaluate performance in information security management,
+is a critical success factor for information security
+but challenges in measuring security at large.
+It include unwillingness to share security information.
+Lack of common definitions for terms and metrics.
+Fundamental concepts in the words such as incident, attack, threat,
+risk and vulnerability mean different things to different people.
+Basic metrics for counting events are difficult
+to collect because the terms are unclear.
+Legal concerns and incentive failures are also roadblocks to data sharing.
+The lack of consensus on security metrics is in part due to the fact
+that the culture surrounding the security is largely one of shame.
+Firms that get hacked tend not to talk about security incidents in public.
+Likewise, firms that are doing the right things tend not to talk about it either.
+When they do talk, it is typically under the nondisclosure agreement
+or at small gatherings of like-minded people.
+More regulations versus more measurements.
+Some would argue that regulations not measurement is what is needed.
+Some would say that answers to somehow force more investment
+in security that if this is an arms race.
+That the good guy can win because at the end of the day they can out-spend opposition.
+That may be true in a physical world, but it is a dangerous delusion
+to think it could work in a digital world.
+In a digital world, the defenders work factor is proportional to the sum
+of all the methods the attackers possess,
+multiplies the complexity of that which is to be defended.
+The attackers work factor is the cause of creating new methods as fast
+as old ones must be retired where complexity insures that the supply
+of new methods can neither be exhausted.
+This asymmetry does not allow an outspending them strategy work.
+Therefore, knowing what to measure, how to measure it,
+and how to communicate those metrics can help improve security's efficiency, effectiveness,
+and the standing in the business world.
+The purpose and the benefit of security metrics.
+Getting the right measurements depends on knowing the right questions.
+So the key security questions for business leaders including this.
+How effective are my security processes?
+Am I better off than I was this time last year?
+How do I compare with my peers?
+Am I spending the right amount of money?
+What are my risk transfer options?
+The benefits of security metrics include understand security risks,
+spot emerging problem, understand weaknesses in their security infrastructure,
+and measure performance of countermeasure process,
+recommend technology and process improvement.
+Security metrics are the measurements to support decision regard to security risk management.
+They measure the probability and the potential consequences of an identified risk.
+They also measure how effective the security operations are like the adequacy
+of security control and where to focus our limited resources.
+They also measure to understand the risk environment.
+Security metrics must be about ROSI, return on security investment.
+There are three types of security metrics.
+First is technical security metrics used to diagnose problems
+and measure technical security activities.
+Second type, security program metrics used to measure overall program effectiveness
+such as risk management, policy's compliance, employee training, identity management.
+Third is a security scorecard.
+It's using above two sets of metrics to build a balance security scorecard.
+A comprehensive and balanced system of measurement,
+which is used to evaluate performance in information security management,
+is a critical success factor for information security.

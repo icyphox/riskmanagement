@@ -1,0 +1,62 @@
+>> Security availability and the reliability are highly interrelated
+because severe security incidents often lead to downtime.
+In other words, maximizing uptime requires minimizing security issues
+that could cause downtime.
+Some metrics discussed in this section are basic IT operation metrics such as uptime,
+system recovery, and change control.
+Planned downtime is the total amount of time that resources were
+out of service due to regular maintenance.
+Unplanned downtime is the total elapsed time related to unexpected service outage.
+Uptime is the total time for given period minus any unplanned downtime.
+Mean unplanned outage length is the total number
+of unplanned outages divided by the number of outages.
+Median unplanned outage length is the length of the outage halfway
+between the shortest and the longest outage.
+Mean time between failures calculates the average amount
+of uptime between the unplanned outages.
+It is the total uptime divided by the number of outages.
+All these metrics seems quite straightforward.
+But calculating uptime, downtime, and the revenue generation cost is more of an art
+than a science because the overall scope of assets that they cover isn't simple.
+Uptime statistics for critical assets are easy to calculate when the asset is a single system
+but are harder to calculate for complex environments.
+To calculate overall weighted uptime for an IT environment is still a challenge.
+System recovery metrics add more texture and depth to availability metrics.
+They flesh out not the question of how often system go down but the level of resilience
+in an Enterprise response to outages.
+Here we highlight a few important metrics.
+The support response time measures how long it takes an organization
+to recognize a security outage and initiate support activities.
+Mean time to recovery, MTTR, identifies amount of time required to restore operations
+to inoperable resources once this activity starts.
+Both metrics are straightforward to calculate but require the operation staff
+to keep disciplined start/stop logs or timesheets.
+Related to the actual recovery efforts are disaster recovery planning activities.
+Most business with critical assets implement disaster recovery plans
+to ensure business continuity in the event of severe system outages.
+These plans, of course, encompass much more security related outages
+such as natural disasters.
+That said, degree to which an organization regularly performs walk through or dry run
+of its disaster recovery plans serves as an important indicator of disaster readiness.
+Business that actively walks through their plans will probably be better equipped
+to deal with a security incident.
+A critical component of any effective security program is the process used to manage changes
+to the configuration of the environment.
+Security standards and the configuration change management share a natural affinity.
+If there's easy to effect and information system production environment,
+it is often easy to change its security state as well.
+Three key metrics can help organization understand the degree
+of change control and organization processes.
+All of them assume the organization keeps track of changes to production systems.
+First metrics, the number of production changes.
+Second, the number of exceptions.
+Third, the number of unauthorized changes or violations.
+This metrics are typically tracked on the per-period basis.
+And for additional insights, they can be sliced by business unit or technology area.
+The latter two exemptions and the violations are related.
+An exemption represents a change that was granted for exceptional reasons
+and required implementation outside of normal maintenance hours.
+Emergency fixes and other out-of-cycle changes require exemptions.
+Unauthorized changes, also known as violations, measure the number of changes
+that were applied without approval.
+This number obviously should be as close to zero as possible.

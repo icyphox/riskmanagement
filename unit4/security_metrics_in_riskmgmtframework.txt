@@ -1,0 +1,44 @@
+>> Drawings from examples in fields like manufacturing, logistics,
+and management consultant, security metrics attempt to put numbers around activities
+that safeguard information resources.
+Unlike the qualitative risk assessment method such as the conventional risk metrics,
+security metrics are not based on the subjective high, medium,
+low scoring methods and oversimplified ALE equation.
+Security metrics do not replace risk management but supplement it
+with some objective measurements in all three phases, risk assessment, risk mitigation,
+and risk evaluation, and help organizations to: Understand weakness or identify vulnerabilities
+in their IT system and security infrastructure; understand and characterize the risk;
+measure the performance of security controls including technical controls, process controls,
+and compliance controls; determine the data points for collection and monitoring process.
+There are three caveats.
+Security metrics discussed in this course are not exhaustive,
+many based on the security metrics book by Andrew Jaquith,
+who also founded the security metrics that work.
+This metrics are mostly observed rather than modeled.
+There's no risk model that justify the selection of particular metrics.
+Not all these metrics are appropriate for all organizations.
+So the list we discussed here is not meant to be canonical.
+When you select metrics for your own use, each must past the 'so what' test
+to ensure the selected metrics can provide insights you don't already have
+and help your organization to spend dollars more wisely and help you diagnose problems better.
+Security analysts use metrics for many purposes, particularly for diagnosing problem
+with the organization's security programs.
+Diagnostic security metrics borrow
+from management consultant techniques by asking two questions.
+What hypothesis can be formed about efficiency or effectiveness of security controls?
+What evidence can be marshaled to support or disprove that hypothesis?
+Technical security activities provide a wide variety of metrics
+that analysts can use as diagnostics.
+Let's discuss the first type of security metrics.
+Technical metrics include those that measure perimeter defense,
+which is understand the security incidents coming from outside
+and measure the effectiveness of antivirus/antispam systems, firewalls,
+and intrusion prevention systems.
+Control and coverage understand the extent and effectiveness of configuration, patching,
+and the vulnerability management systems.
+Availability and the reliability.
+Metrics like mean time to recover, MTTR,
+and uptime percentages show the dependencies between security and profits.
+Application risk such as defect counts, cyclomatic complexity,
+and application risk indices help quantify the risks inherent
+to homegrown code and third party software.

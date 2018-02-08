@@ -1,0 +1,114 @@
+Beyond domain of conventional scientific laboratory, hypothesis testing
+and rigorous measurement underpin certain disciplines in the commercial world too.
+Modern management consultant, for example, focuses on marshaling empirical evidence
+to diagnose his organizational problems and to confirm hypothetical strategies
+for fixing under-performing operations.
+Here we'll briefly introduce a short and simple data gathering
+and needs assessment exercise commonly used
+in McKinsey's initial engagement process called McKinsey-style diagnostic.
+Later in this unit, we will describe how to use empirical measures to diagnose these issues
+within organization's security controls.
+McKinsey-style diagnostic first states an overall hypothesis related
+to the business problem at hand and then marshals evidence for metrics
+that supports or undermines the theory.
+The essence of this kind of diagnostic is quite simple.
+First, the analyst team identifies an overall hypothesis to be supported.
+For example, the firm is secure from wireless threats by outsiders.
+The team then brainstorms additional sub-hypothesis that must hold
+for the overall hypothesis to be true.
+For example, to support the wireless hypothesis we just identified,
+we might pose this sub-hypothesis such as open wireless access points are not accessible
+from outside the building, and wireless access points
+on the corporate LAN requires session encryption and the reliable user authentication.
+Then the team examines each sub-hypothesis to determine if it can be supported
+or disproved by measuring something.
+If it cannot, the hypothesis is either discarded or decomposed into lower level hypothesis.
+For each lowest level hypothesis, the team identifies specific diagnostic questions.
+The answers to the questions provide evidence for or against the hypothesis.
+Diagnostic questions generally take the form of the number of X is greater or less than Y
+or the percentage of X is greater or less than Y. For example,
+there are no open wireless access points that can be accessed from the building's parking lot
+or surrounding areas, or 100% of wireless access points
+on the corporate LAN requires 128-bit WAP security.
+Hence, the diagnostic questions dictate our metrics.
+The primary benefit of this diagnostic method is that hypotheses are proven or disproven based
+on empirical evidence rather than intuition because each hypothesis supports the other.
+So cumulative weight of hard effects builds a supporting case that cannot be disputed.
+A secondary benefit of the diagnostic method is that it forces the analyst team to focus only
+on measurements that directly support or disprove the overall hypothesis.
+Any issues that cannot be measured will be automatically filter themselves out.
+So far, the simple hypothesis and diagnostic questions given
+in this exercise are rather simplistic.
+Let's look at a real-world example given by the book Security Metrics Replace Fear,
+Uncertainty, and Doubt by Andrew Jaquith.
+A case study about using metrics to diagnose problems.
+This is about a large well-known maker of high-end consumer electronics.
+This company operates a large reasonably up-to-date network
+and the full suite of Enterprise applications.
+The CTO, Barry, a pseudonym here, an extremely smart man and fully conversant
+in the prevailing technology trend, he has a fact-based decision-making style.
+Barry's problem was simple.
+His firm had historically been an engineering-driven company
+with limited need for internet applications.
+More recently, his senior management team had asked him to deploy a series
+of transactional financial systems that would offer customers order management,
+loan financing, and consumer support services.
+This public facing systems in turn connected back
+to several internal manufacturing applications as well
+as to the Enterprise application such as SAP and Oracle systems.
+Barry wanted to make sure his perimeter
+and application defenses were sufficient before beginning significant deployments.
+He wanted to know how difficult it might be for an outsider to penetrate his security perimeter
+and access sensitive customer data, product development plan, or financial systems.
+Barry's question was "is my company's customer data secure from outside attack?"
+Barry wanted to find out how difficult it might be for an outsider
+to penetrate his security perimeter and access sensitive customer data.
+He wanted to find out how good his defense really were,
+how well his company compared to other companies.
+To answer Barry's question, our overall hypothesis held
+that indeed the company was highly vulnerable to attacks from outsiders.
+To show that this statement was true or not true, we constructed sub-hypothesis
+that could be supported or disproven
+by asking specific questions whose answers could be measured precisely and empirically.
+Here is a subset of diagnostic can be employed to test the hypothesis.
+The overall hypothesis can be decomposed into the following sub-hypothesis.
+The network perimeter is porous, permitting easy access to any outsider.
+An outsider can readily obtain access to internal systems
+because password policies are weak.
+Once on the network, attackers can easily obtain administrator's credentials.
+An intruder finding a hole somewhere in the network could easily jump straight
+to the core transactional systems.
+Work stations are at risk for virus or worm attacks.
+Viruses or worms can be spread to large number of computers quickly.
+Application security is weak and relies too heavily on out of box defaults.
+The firm's deployment of applications are much riskier than those made by leaders
+in the field, for example, investment banking.
+Note that this diagnostics do not exhaust the potential problem space.
+Time and budget impose natural limits on the number and the kind
+of diagnostics that can be deployed.
+To simplify, we go through a small subset
+of diagnostic questions for three sub-hypotheses here.
+For the remaining diagnostics, please see the link in the resource section.
+The three diagnostic questions for the sub-hypothesis:
+"The network perimeter is porous, permitting easy access
+to any outsiders" are how many sites are connected directly
+to the core network without firewall?
+How many of these sites have deployed unsecured wireless networks?
+Starting with zero knowledge, how many minutes are required
+to gain full access to network domain controllers?
+The diagnostic question for sub-hypothesis "an outsider can readily obtain access
+to internal system because password policies are weak" is the following.
+What percentage of user accounts could be compromised in 15 minutes or less?
+For sub-hypothesis "an intruder finding a hole somewhere
+in the network could easily jump straight to the core transactional system,"
+the diagnostic question is how many internal zones exist to compartmentalize users,
+workgroup servers, transactional systems, partner systems, retail stores, and web servers.
+To answer these diagnostic questions,
+a four-month security risk assessment program was put in place for Barry's company.
+The network perimeter defenses, internal networks,
+top 10 most significant application systems, and the related infrastructures were assessed.
+At the end of the four-month duration, a final presentation was made to Barry
+and his team assessing the company's risk in protecting customer data.
+The metrics that derive from diagnostics played a key role in proving the hypothesis.
+The evidence was so compelling, in fact, that the initial risk assessment program was extended
+into a much longer corrective program to strengthen company's overall security.

@@ -1,0 +1,184 @@
+>> Coverage and control metrics characterize how successful and organization is
+at extending the reach of its security regime.
+Most security programs are full of good intentions,
+usually expressed formally through some sort of policy.
+But the reality of the suboptimal implementation and the poor
+and user compliance often post a shaft to all those good intentions.
+Coverage and control metrics then are essential to help managers understand the size of the gap
+between the intensions and the facts on the ground.
+Coverage means the degree to which a particular security control has been applied
+to the target population of all resources or assets that could benefit from that control.
+Coverage metrics measure the security organization's ability
+to execute on its mandates.
+Perfect coverage is impossible.
+The eligible population may not represent the full set of assets
+or resources that could be covered.
+Often security organizations must grant dispensations or exceptions
+to imbed it, turnkey or management system.
+For instance, if the vendor of a turnkey system no longer support you,
+the security organization cannot do anything to the system.
+You have to live with these vulnerable systems and put compensating controls in place
+to prevent problems from spreading.
+Similarly to the legacy systems, will we allow some legacy systems connect
+to IT and production networks.
+But only with very strict security and very specific network filters.
+In short, systems with dispensations cannot be included in coverage metrics.
+Control means the degree to which a control is being applied in a manner consistent
+with the security organizations service standards
+across the scope of covered resources or assets.
+In other words, for the thing we got covered, are we getting the result we want?
+The following table shows a sample set of recommended coverage and control metrics.
+For the purpose of this course we only list the metrics
+that an organization could reasonably measure with it's technical infrastructure.
+The table includes topics such as antivirus, antispyware, patch management,
+host configuration, and the vulnerability management.
+The antivirus and antispyware controls are relatively easy to assess.
+Coverage metrics identify implementation gaps of the eligible workstation and the servers.
+How many have antivirus and antispyware software?
+And of the machines covered by the software, how many have update signatures and policy files.
+Metrics such as workstation covered by antivirus software and work station or servers
+with a current antispyware signature help administrators understand extent
+of their control regime.
+For most of the metrics in this section, we recommend using two units of measure --
+absolute number and percentage of all in stored basis.
+For most part, absolute numbers matter less than percentages.
+In most large companies knowing, for example,
+that 688 workstation run approved antivirus software is less interesting than the fact
+that this number represents only 54 percent of eligible host according
+to what the security policy dictates.
+Patching is an essential part of the keeping systems up to date and in norm state.
+It is a part of an OS portfolio of security controls.
+The degree to which an organization keeps its infrastructure up to Patch indicates
+that the effectiveness of it's of OS security program.
+It is likely that organizations that do not Patch the systems have highly variable system
+configurations that render other security controls ineffective.
+Patching can be labor intensive exercise, especially for large organizations
+with weak technical controls and large desktop populations.
+Identify what system require particular Patches and determining
+which ones get them first can be extremely costly in terms of time and soft labor dollars.
+There's the metrics in the Patch Management section of the table attempt
+to characterize the effectiveness of a organizations Patching program.
+Because different types of host need different numbers and kinds of Patches,
+most organizations typically aggregate Patch level metrics by type of host
+such as laptop, workstation, versus service.
+Critical systems and operating systems.
+For organizations with a federated IT operations,
+aggregation by business unit can help identify which parts
+of the business are doing better worse than others.
+Unapplied Patch latency is a key indicator.
+It measures the average of median number of days between the initial patch announcement
+and the verified installation on target systems.
+While aggregated and grouped by business unit or type of a host,
+the numbers can be extremely revealing.
+Related to latency are all the cycle times.
+Patching can be thought of then having at least three distinct type steps.
+The first step -- identification of a target system that need particular patches.
+Second step -- Patch testing.
+Third is Patch distribution and installation.
+Cycle times for testing requires manual effort to measure
+because automated Patch test harness do not exist.
+But most Patch Management software can easily calculate distribution cycle times.
+As it happens, Patch testing is becoming less common due to the ever decreasing window
+between the release of a Patch and its evil twin, the follow of malicious exploit.
+It is becoming too risky to wait.
+Some organization have made it official policy to slam down Patches to workstations as soon
+as soon as they become available without any testing.
+The metrics Patches applied outside
+of maintenance windows denotes how many patches were deemed so exceptional or critical
+that they demanded an out of cycle installation.
+Often times each server has a predefined maintenance window associated with it.
+One of the key business metrics to measure success is the number of servers
+that are patched outside of the maintenance windows.
+Another metric is the number of servers patched by deadline.
+Related to maintenance windows are service level agreements, SLAs.
+Although each organization defines SLA differently, the Patch Management SLA here is
+to mean that a given set to a target machines has had appropriate set
+of Patches applied within a desired latency Window.
+Thus a typical SLA might say that 100 percent of all critical servers must have Patches applied
+within five calendar days of release.
+That is Patch latency of less than five days.
+And all Patches must be applied within scheduled maintenance Windows.
+Host configuration metrics provide ways to measure the span and extent of control
+over networked asset, primarily desktops and servers.
+But this metrics can be extended to routers, mobile phones, tablets, or IoT devices.
+The most important goal of this metrics is to measure the network asset are configured
+in a manner that allows the organization security objectives to be achieved.
+What it means in practice is that machine configurations are at least locked down.
+That the attack surface they represent is within the bounds of acceptable risk,
+which is determined by the companies business and IT strategy.
+Microsoft Windows are the dominant corporate operating system.
+In order to manage the attack surface of Microsoft Windows Operating System for instance,
+organizations usually define standard build image for all Windows workstations.
+The image is a customized version of the operating system with a standard compliment
+of productivity software and hardened security settings.
+Most organizations typically have at least one standard image
+or gold master that they maintain.
+Hence the percentage of systems in compliance
+with approved configurations is an essential security metrics
+for understanding the scope of an IT organizations control.
+The network service ratio shows the number of listening network services for each host.
+Good sources of network services metrics are port scanning tools such as nmap, and Nessus
+and vulnerability management software.
+Both types of tools can generally fingerprint each end points operating systems,
+which makes it easy to slice and dice the results by operating system.
+The next three metrics -- business-critical system under active monitoring,
+logging coverage, and NTP, Network time protocol server coverage refer to the relative coverage
+of remote network management tools.
+Even logging controls and the synchronization of system clocks.
+The latter two metrics are important for security incident handling.
+When problems occur, investigator need access to event information
+from individual work stations and servers.
+One way is to forward security events to centralize servers.
+Related to logging controls is clock synchronization, which is essential for ensuring
+that even information from multiple host can be reconstructed faithfully in the correct order.
+By default, modern Windows and OSX machines synchronize their clocks with Microsoft
+or Apple managed extend external NTP servers automatically.
+However, many organizations prefer to synchronize
+with an internally managed NTP server or trusted external one such as tech.mit.edu.
+The last metrics emergency configuration response time quantifies the extent
+and organizations control over assets.
+When something goes wrong, how long does it take to implement emergency count measures?
+A typical count measure might be remotely shut down a system, configuring the host Firewall
+to block all traffic other than administrative commands.
+Pushing a virus update or forcing the installation of a software package.
+The exact test and the measurements method virus from company to company.
+But the important point here is to be consistent.
+Vulnerabilities are not harmful until exploited, many are benign.
+Today's serious vulnerabilities can be immediately turned
+into mass exploits by attackers.
+Thus ever organization security program should include metrics that give a clear-eyed view
+of the vulnerabilities present in its network and on its host.
+Vulnerability metrics tell you how sound your systems are.
+Vulnerability metrics are similar in composition to those
+for Patch management presented earlier, instead of Patches per host.
+A typical metric is a vulnerabilities per host.
+Group by criticality, system type, or asset class.
+Commercial vulnerability management software from Qualys [inaudible] nCircle
+and other vendors calculate these figures as part of their normal scanning processes.
+Monthly vulnerability comes and monthly net change can help prioritize day-to-day
+IT activities.
+Coverage metrics like vulnerabilities scanner coverage help managers understand what
+percentage of the IP address space is regularly scanned.
+Two cycle time metrics -- vulnerability identification latency,
+and the time to close open vulnerabilities,
+measure how long it takes security operations staff to identify vulnerable host
+and close vulnerabilities discovered by periodical scans.
+Identification latency is the difference between a vulnerability announcement
+and identification of host to which it happens.
+Time to close metrics are usually derived
+from ticketed open close time stamps in trouble ticketing systems.
+Modern vulnerability management software can automatically create trouble tickets
+when they find vulnerabilities on host.
+And then out of close the tickets later if subsequent scans show that issue has been fixed.
+The amount of time required to fix 50 percent
+of vulnerable system is also called vulnerability half time.
+An app tittle, because the decreases in vulnerability seems
+to resemble a process much like radiant radiation emission.
+A revealing workload related indicator that few companies track is that the rate
+at which work stations and servers need to be rebuilt due to security issues,
+like systems requiring reimaging.
+The final vulnerability metrics is one that measures of all integrity of a host based purely
+on its capability to resist attacks.
+Popularized by the sense institute, the survival time metrics measures how long a new unpatched
+machine exposed to the internet stays uncompromised based on reports
+from probes on participating systems.

@@ -1,0 +1,85 @@
+>> You can only manage what you measure
+and you can only measure what you define clearly and consistently.
+Therefore to measure is to know.
+Security is neither a protect nor tech knowledge,
+but it is a means not end; and it is a process.
+And we all know process is boring, is a routine and institutional.
+In short, process is operational and process is measurable.
+So then, how are the processes to be measured?
+In mature process driven industries,
+measurements such as the key performance indicators,
+KPIs are very commonly used to drive business operations.
+To illustrate how a relatively simple key indicator speaks volumes
+about company operations here are some examples.
+Cost per square, inventory returns, that is average number
+of times the complete inventory rotates through the warehouse on a yearly basis.
+These two matrix used in supply chain industry commonly.
+Website conversion rate, that is the percentage of unique visitors
+to the website who buy something at the end.
+Subscription cost to acquire, that's the cost of all marketing subsidies and discounts divided
+by the number of acquired customers.
+These two matrix are for ecommerce operations.
+There are some key characteristics emerging for these KPIs or matrix.
+They incorporate measures of time or money they are all well understood across the company
+and they are well understood across industries and are consistently measured.
+They are calculated mechanically.
+From this unit, we will study one quantitative method based on matrix
+for security risk management called security matrix.
+Information security is one of the few areas of management
+that does not possess a well understood cannon of techniques for measurements.
+Let's look at some parallel examples from multiple industries.
+In finance, value and risk techniques calculate the amount of money a firm could lose
+on a given day based on the historical price volatilities.
+The core idea is that there is a target for risk and the matrix
+that says how far off the target you are.
+There's zero ambiguity about which of [inaudible] what risks.
+In information security field, however, there's nothing but ambiguity about who owns what risk.
+We also can leverage much more from the quality control literature
+from past decades on measuring quality.
+We can think or treat security flaw a special cases of quality flaws or defects,
+assuming they are accidental and not the fruits of sabotage.
+Developers should work on quality early in the development process
+and quality security are not afterthoughts.
+Public health tries to answer questions about disease incidence prevalence
+and spread to get the big picture.
+Being an electronic world standardization are overwhelming dominant vendors creates a near
+monoculture of limited, if any [inaudible] immunity.
+The creation of CDC Center for Disease Control for the internet with electronic analogs
+to the CDC's epidemiology coverage, requires mandatory reporting
+of all security incidents, attacks and vulnerabilities.
+System administrators who plan workable models of diminished operation
+for computer systems are doing precisely the same thing as portfolio managers
+who hatch their investment positions.
+The official measurement of Homeland Security risks move from yellow to orange.
+So what does that mean?
+What knobs would you adjust?
+You need a better risk model, one hatched and calibrated enough
+to respond to external risk indicators.
+If you have not calibrated the model with measurements,
+it is clear that you either overspent or underspent.
+Similar to the accelerated failure testing in manufacturing industry,
+we have website penetration tests in information security.
+In insurance industry, when an underlying measurement entity is subject to change,
+the best alternative is a moving window rather than a flawed data capture.
+In today's e-business world, the technical flags of change is high.
+So the information risk assurance generally protects
+against named hazards rather than an umbrella.
+How to define matrix?
+A matrix is a consistent system or standard of measurement.
+IT matrix are measurements for value delivery, doing the right thing;
+process improvement, doing things right.
+The primary goal of a matrix is to quantify data to facilitate insights.
+Helping diagnose a particular subject area or understand its performance.
+Quantifying particular characteristic
+of the chosen subject area; facilitating before and after.
+What if, why or why not inquiry.
+Focusing discussions about the matrix themselves on costs, means and outcomes rather
+than on methodologies used to derive them.
+Numbers are the language of business.
+Security matrix are growing ever more sophisticated knowing what to measure,
+how to measure it and how to communicate them can help improve security's efficiency,
+effectiveness, understanding in the business world.
+Security leaders generate data every day.
+Knowing what to look for and how to analyze it can spell success
+for security operation and organization it serves.
+Yes. Got the first one done.
