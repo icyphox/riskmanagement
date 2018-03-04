@@ -1,0 +1,66 @@
+A brief re-cap on the first security metric type - technical diagnostic metrics,
+that security analysts can use for diagnose security incidents or issues.
+So far, we have discussed three categories of technical metrics: perimeter defenses,
+coverage and control, availability and reliability.
+Technical activity metrics are ideally suited to serve as diagnostic metrics
+because they fulfill many of the qualities that good metrics should have.
+They are expressed as numbers, incorporate clear units of measure, and can generally be computed
+on a frequent basis because their data flow from deployed IT and security software packages.
+From this section, we will look into the last category: application security metrics
+that can be used to quantify application risks, such as Defect counts, cyclomatic complexity,
+and application risk indices help quantify the risks inherent
+to homegrown code and 3rd party software.
+Applications are the electronic engines that drive most business.
+For instance, e-commerce applications, order processing and management software,
+supply chain management, the ERP (Enterprise Resource Planning) systems,
+etc. In-house developed Packaged Outsourced Served on demand (on premise,
+or in the cloud) Application threat vectors are less well understood than network-based threats.
+But they are just as important.
+Gartner Group stated that 75% of attacks tunneled through
+or used application related threat vectors.
+Measuring the relative security of application code is hard.
+The security industry has not arrived at a consensus
+about exactly what it means to build a "secure application".
+It represents an entirely separate measurement domain with its own diagnostics.
+Three ways to measure application security: By counting remotely and locally exploitable flows
+without the knowledge of the code (black-box metrics).
+They count defects detected by scans.
+By creating qualitative risk indices using a weighted scoring system (qualitative process
+metrics and indices).
+They measure the spread of secure development process via the frequency of security reviews
+and go-live assessments By counting design and implementation flaws
+in the code (code security metrics).
+They allow organizations to quickly "score" application security risk
+across an entire portfolio of applications.
+Code metrics such as vulnerability density and cyclomatic complexity provide raw measure
+of how secure and reliable code modules are likely to be.
+Black-box metrics are using scanning or penetration testing tools to count remotely
+and locally exploitable flaws without knowledge of the code.
+Black-box testing involves assessing an application, typically remotely via the web.
+The method of assessment varies, For high-volume testing, automated black-box testing tools
+from SPI Dynamics, Cenzic, Watchfire allow companies to quickly scan a large number
+of deployed applications for potential vulnerabilities.
+Automated tools are best suited to testing web applications.
+A typical black-box web security testing tool "spiders" an application by starting
+at a known URL, after it enumerates all application pages, an automated "fuzzer" ro
+"fault injector" examines the web forms on each page, looking for weaknesses.
+In the non-automated camp are security consultants who conduct tests
+as part of a formally scoped engagement.
+Consultants tend to be more expensive than the automated black-box tools but can find issues
+and root causes that the tools can't.
+Regardless of the method used, the objective of testing is the same:
+to find vulnerability (defects) that can be exploited
+to compromise the application's confidentiality, integrity or availability.
+SQL injection: Manipulating submitted web form fields to trick databases
+into disgorging sensitive information Command injection:
+Executing native operating system commands on the web server Parameter tampering:
+Changing submitted web form fields to change the application state Cross-site scripting:
+Submitting malformed input that will cause subsequent users
+to execute malicious JavaScript commands that hijack their sessions
+or capture data Buffer overflows: Overfilling a server-side buffer in an effort
+to make the server crash, or to take it over remotely Results
+of black-box tests are typically simple counts of what defects were found,
+the category to which they belong, and where.
+Security consultants, generally as part of the engagement,
+prioritize the vulnerabilities they find
+and assign them a criticality rating (high, medium, low).

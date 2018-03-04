@@ -1,0 +1,140 @@
+Qualitative assessment earlier
+on in the application life cycle uncover issues before they become vulnerability in the field.
+Application assessments conducted at different stages
+of application development life cycle Design reviews: at the midpoint of the design stage:
+(1) Validation of security engineering principles (2) Identifies gaps compared
+to security standards Architecture assessment: at the midpoint of development:
+(1) Verification of implemented security standards (2) Finds potential architectural
+weakness Code reviews (optional): at the end of development
+for sensitive functions (1) Focused examination
+of sensitive functions (2) Find development flaws Penetration test:
+prior to deployment (1) Identification of deployment flaws (2) Finds
+"real-world" vulnerabilities When an organization embarks on a substantive effort
+to assess applications qualitatively, it must possess a defensible methodology
+for evaluating and scoring defects.
+If it does not, the results of different assessments will vary wildly,
+giving management an excuse not to trust the numbers they see.
+If an organization can standardize on definitions and scoring formulas,
+it can partially mitigate the risk of inconsistency.
+A common scoring technique is to define an index formula
+that assigns an overall risk number to defects.
+Business Adjusted Risk (BAR) is a simple tool to score application security.
+It classifies security defects by their vulnerability type,
+degree of risk, and potential business impact.
+When assessing an application, for each security defect we calculated a BAR score as follows:
+BAR (1 to 25) = business impact (1 to 5) x risk of exploit (1 to 5,
+depending on business context), in which Risk of exploit:
+how easily an attacker can exploit a given defect (5: high risk,
+easiest to exploit) Business impact:
+the damage that would be sustained if the defect were exploited.
+(5: significant impact) The higher the BAR score, the higher the risk.
+Because BAR includes relative ratings for both likelihood of occurrence and business impact,
+it moves in the same direction as insurers' annual loss expectancy (ALE) calculations.
+BAR suffers from several defects.
+1) Its estimation method is faster and light rather than precise,
+and it does not quantify risk in terms of time or money.
+2) Scores are heavily biased by the availability of attack scripts
+and exploit code 3) BAR scores are necessarily temporal (score changes
+when a hacker releases exploit code) Variations on indices for counting
+and rating specific application defects, such as the BAR technique,
+are common ways to "score" application security.
+However, any risk index technique that relies on humans to discern between qualitative levels
+of risk is prone to inconsistences.
+Application Insecurity Index (AII) is another scoring technique that eliminates considerations
+for things that might happen (such as vulnerability that could result
+in financial damage to multiple business units) and replaces them with simple,
+declarative statements about things that do happen ("the server encrypts sensitive data".)
+, It focuses on factual questions that result in binary yes
+or no answer serve as the basis of the score.
+It is easier to debate about facts instead of hypothetical outcomes.
+This scoring systems do not necessarily linearly relate to risk, they sacrifice a certain amount
+of precision for speed and repeatability.
+The AII contains three primary areas: business importance, technology alignment,
+and assessment oversight activities.
+This table shows AII components, and the potential score ranges from 8
+to 48, the lower scores are better.
+AII contains Three primary areas: - Business importance:
+scores consider the application's importance to the organization:
+whether the application faces the Internet, contains sensitive data,
+costs the organization money when down, or processes business transactions.
+- Technology outlier: scores put a number on the degree
+to which the application follows prescribed organizational guidelines
+for eight security topics, including authentication, data classification,
+validation of user input and output, role-based access control, and identity management.
+- Assessed risk : scores highlight the application's relative riskiness based
+on whether the application might be considered subject to regulatory inspection or review,
+such as HIPPA or the European Union Privacy Directive.
+It also scores whether the application carries any risks associated
+with third-party code development or data storage,
+and whether the application has received a technical security assessment.
+AII gives the highest scores to applications that serve the most critical business functions,
+deviate the most from appropriate technical security standards,
+and have the highest exposures to regulations and identified security vulnerability.
+AII focuses on facts that can be quickly ascertained
+through a lightweight interview process or questionnaire.
+An application: - Process customer transactiond data - or not - Faces the internet or not -
+Meets requirements for role-based access control to govern authorization or not -
+Handles sensitive data properly or not - Has been assessed for application vulnerabilities
+or not - Contain code developed offshore or not AII is lightweight,
+should take only a few minutes to complete and need not exhaustively score possible technical
+or business criterion; be careful not to rate everything - just high-priority items.
+The qualitative metrics such as BAR and AII are best used
+to estimate the risk exposure of applications as a whole.
+They do not assume any particular inside knowledge
+about the software code underneath the application.
+Code security metrics tackle measurement of software quality directly.
+These count the number of lines or code in an application, or the discrete number
+of features and functions it provides.
+One of the most common code-volume metrics is "lines of code" (LOC); many people prefer
+to measure code by thousands of lines as well (KLOC).
+As an alternative to LOC counting, some methods simply count "statements" instead of lines
+of code Code volume metrics are not directly related to security,
+but they provide texture, depth and context.
+They become much more interesting when combined with statistics about security defects.
+By "defect", we mean a flaw in the code as detected by an automated code-scanning program,
+like RATS, ITS4 (open source), Klocwork, Coverity, Ounce Labs or Firtify software.
+Typical flaws detected by these programs include unsafe memory handling, lack of validation
+of user input, and dead (or unreachable) code block.
+The automated code base checking market is still pretty immature and problematic
+in several ways, false positive, false negative.
+The tools really don't seek to understand the code, they tend to be syntactic-based or based
+on following paths through execution, but they fail to handle lots of things well.
+But they do successfully find the really obvious ones
+that cause most of currently exploited errors.
+This table shows a set of examples for application code security metrics.
+- Assessment frequency for developed applications -
+measures how often security quality assurance "gates" are applied
+to the development life cycle, particular for custom-developed applications -
+Code volume metrics in KLOC - Defect density such as
+"defects per KLOC" characterizes the incidence rate of security defects in developed code -
+Other variations on defect density include "known vulnerability density,"
+defined as the number of known vulnerabilities per unit of code.
+Vulnerability density metrics provide rough quantitative scores of software quality.
+The primary benefit of density metrics is that they can be calculated consistently
+across an organization's application development portfolio.
+But density metrics characterize only raw ratios of flaws in applications,
+and they do not prioritize issues or difficulty of exploit.
+These metrics also suffer in accuracy.
+- Tool soundness is introduced to denote the number
+of correct defect classifications minus the false positive and false negatives,
+divided by the total number of defects detected.
+This metric helps put the defect numbers in perspective
+by assigning a potential range to the tools' error rate.
+No tool can calculate soundness metrics automatically.
+Users must work out these numbers on their own, based on their experiences with the tools.
+"Complex systems fail complexly".
+If complexity contributes to insecurity, we ought to devise methods
+for measuring code complexity as a leading indicator of future security problems,
+There are Quite a bit of prior academic research into the relationship
+between software complexity, defect rates and reliability.
+Cyclomatic complexity metric is defined as the minimum number of paths
+that in linear combination generate all possible paths through the module.
+Modules with a high number of branching instructions, excessive nesting,
+or if/then statements generate higher scores than simpler modules.
+These metrics can be automated captured and compared across projects.
+It is the right metric for measuring control flow density on a per-method
+and per-entity (or per-class) basis.
+Because security flaws are, at least some of the time, implementation-related,
+these metrics can help predict which classes/methods
+in an application might experience flaws.
+The relationship complexity metrics to security is hypothetical rather than proven.

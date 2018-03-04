@@ -1,0 +1,69 @@
+Information is the lifeblood of the modern firm.
+The word "data" denotes all forms of information
+that can ultimately be distilled into bits and bytes.
+Data are either at rest (stored in RAM or on disk) or in motion (being transmitted
+from a sending party to a receiver).
+Understanding data's direction, magnitude, and sensitivity is an important discipline
+for information security programs.
+However, few organizations have any idea of how much information they own, send, or receive.
+Not all data are created equal.
+Thus, while companies need to understand the broad contours of the data they own
+or are custodians for, they also need to understand exactly
+which of these bits are the most sensitive.
+Data handling becomes particularly important
+when sensitive information flows outside the organization,
+either through a contractual arrangement with a third party,
+or via a customer-facing medium like a website or portal.
+Security metrics for data should measure the amount of data flowing
+into and out of the organization.
+They should also identify the amount of potentially "toxic" data
+that must be monitored, handled properly, and contained.
+And they should attempt to capture key process indicators for high-risk situations
+where sensitive information passes from the custodianship
+of the organization to an outside party.
+Therefore, here are some questions to ask: How much information is flowing
+into the organization on a daily, monthly, and yearly basis?
+(Metric: data flow, such as bytes sent to and received by customers, external employees,
+vendors, partners) How much sensitive customer information does the company manage?
+(Metric: toxicity rate of customer data [# of records containing PII] and ratio of same
+to all data records) How safe are storage media entrusted to third parties?
+(Metrics: % backup media stored with third parties,
+% backup media successfully delivered) Are media assets decommissioned properly
+to remove traces of sensitive data?
+(Metric: % media sanitized prior to disposal) How quickly can the organization respond
+to complaints from employees and customers about potential data privacy or integrity problems?
+(Metric: # data privacy escalations, and estimated time/cost to fix) In summary,
+organizations need to get a handle on the data they create, use, and manage on behalf
+of their shareholders, partners, and customers.
+No man, or organization, is an island.
+Every company and government branch maintains ongoing business relationships
+with outside parties for services.
+Every one of these parties represents a potential threat
+to an organization's security-at least in theory.
+Thus, every information security management program needs to understand the amount and type
+of access third parties have to information resources,
+and the degree of control the organization can exert over this access.
+Third-party access, like every other type of user access,
+goes through several distinct phases, starting with requirements,
+and then moving on to provisioning, and then monitoring, and eventually revocation.
+To measure the effectiveness of programs for managing third-party access,
+we need to answer questions that uncover the key performance indicators throughout the
+life cycle.
+Thus, metrics ought to answer the following questions: How quickly are requests for access
+by third parties vetted and approved?
+(Metric: % third-party applicants successfully vetted
+within service standards) Once approval is granted,
+how quickly can the organization grant access to third party applicants?
+(Metric: cycle time to grant, and revoke, customer/partner access
+to company systems) Does the organization understand what security controls are needed
+for third-party access?
+(Metric: % strategic partner/third-party agreements
+with documented security requirements)
+To what extent do third parties implement the correct security controls appropriate
+to their level of access?
+(Metrics: % third-party agreements requiring external validation of procedures;
+% of third parties satisfactorily completing external audits,
+such as HIPPA requirements) How frequently are the access rights of third parties reviewed?
+(Metric: % third party users whose privileges reviewed this period) Are third-party
+applications authorized?
+(Metric: # authorized [and unauthorized] customer/partner transactions, by application)

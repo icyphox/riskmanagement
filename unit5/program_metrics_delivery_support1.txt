@@ -1,0 +1,86 @@
+The previous two domains, Planning & Organization, and Acquisition & Implementation,
+describe how organizations can measure the parts of their security programs devoted
+to building security strategies and putting in place systems to carry out those strategies.
+In this section, we will study the metrics for the Delivery and Support domain-
+the day-to-day control activities that comprise security operations.
+Typical activities performed in the Delivery and Support domain include defining service levels
+for technology operations, training users, helping customers, managing problems
+and incidents, ensuring continuity of operations,
+and implementing system access controls.
+For the purposes of security metrics, a certain amount of overlap exists between the Delivery
+and Support approach and the metrics discussed in the preceding chapter.
+Program-level security metrics differ somewhat from largely technical metrics
+because they cover areas that may span domains for process
+and people beyond just a particular technical area.
+A second difference is that the security program metrics include the "fuzzier" parts
+of measurement that may not be captured by a particular piece of security widgetry.
+No antivirus software, intrusion detection system,
+or vulnerability scanner can possibly tell an organization whether its people possess
+sufficient security training, for example.
+These metrics could certainly be calculated in a straightforward and cost-effective fashion,
+but they won't be obtained through an existing security system.
+To keep the discussion simple we will focus on metrics
+for only the most important five controls.
+These focus on user training and awareness, system security, and data management.
+End-user education is a cornerstone of modern thinking about information security.
+It's a well-accepted truth that the more aware people are of their responsibilities as users
+of computer systems, the more likely they are to exercise due caution
+and care in their day-to-day activities.
+Heightened awareness leads to better practices; better practices should result
+in fewer security incidents, decreased susceptibility to infiltration by outsiders,
+and (for the engineers) higher-quality systems design.
+Thus, security awareness and training metrics should answer these questions:
+Are employees acknowledging their security responsibilities
+as users of information systems?
+(Metric: % new employees completing security awareness training) Are employees receiving
+training at intervals consistent with company policies?
+(Metric: % existing employees completing refresher training per policy) Do security
+staff members possess sufficient skills and professional certifications?
+(Metric: % security staff with professional security certifications) Are security staff
+members acquiring new skills at rates consistent with management objectives?
+(Metrics: # security skill mastered, average per employee and per security team member,
+fulfillment rate of target external security training workshops
+and classroom seminars) Are security awareness
+and training efforts leading to measurable results?
+(Metrics: By business unit or office, correlation of password strength
+with the elapsed time since training classes; by business unit or office,
+correlation of tailgating rate with training latency) One of the key components
+of the Delivery and Support domain is ensuring system security.
+Thus, when considering process metrics
+to measure how effectively an organization ensures security, entitlements (who has access
+to what) figure prominently in the discussion.
+Pertinent questions to ask, and the metrics that answer these questions, include the following:
+How consistently does the organization implement principles of accountability?
+(Metrics: % active user IDs assigned to only one person,
+% systems implementing account lockout policy,
+systems/applications verifying password policy) How pervasive is the principle
+of role-based access to systems?
+(Metric: % information assets with role-based security assignments) Does the organization
+segregate responsibility for production systems to prevent change control problems?
+(Metric: % roles, systems, and applications implementing segregation of duties
+in production systems) What users possess a significant amount
+of privileged access to information systems?
+(Metrics: % users with authorized system access to more than one critical system,
+"high-risk" users with application and system access on the same system,
+% users with authorized access to security software) Does the organization review
+employee entitlements?
+(Metrics: % of highly privileged employees whose privileges were reviewed this period,
+% directory accounts dormant or disabled) Is the business at risk from terminated employees,
+especially those with privileged access?
+(Metrics: cycle time to remove terminated or inactive users, cycle time to deprovision users
+by system type, % inactive user accounts disabled per policy,
+terminated user accounts disabled per policy) These questions
+and suggested metrics should be taken as a starting point for a fuller discussion
+of security entitlements within organizations identification and allocation
+of security costs means understanding how much money the organization spends
+on securing its systems.
+It also means measuring expenses associated with managing security incidents.
+Metrics that quantify these issues ought to answer these questions:
+What do the security systems managed
+by the organization cost relative to top-line business activities?
+(Metric: cost of security for revenue-generating systems) How much
+of the operational security budget ties back to business activities?
+(Metric: % security costs charged back
+to business units) How significant was the cost impact of security incidents?
+(Metrics: estimated damage [$] from all security incidents, % security incidents
+that did not cause damage beyond policy thresholds)

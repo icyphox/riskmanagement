@@ -1,0 +1,64 @@
+As mentioned previously, security effectiveness and change control share a natural affinity.
+A critical component of any effective security program is the process used
+to monitor information systems for deviations against standards.
+These standards include not just the defined security policies an organization might have,
+but also the accepted threshold for controlled change within the organization.
+Without change controls, security monitoring processes become much less effective.
+Therefore, to monitor the effectiveness of monitoring processes,
+organizations should strive to answer these key questions:
+To what extent does the organization monitor the security of its information systems?
+(Metric: % systems with monitored event
+and activity logs) Is the organization monitoring systems that contain customer data?
+(Metric: % customer-facing and Internet-facing systems with monitored event
+and activity logs) To what extent are systems monitored for changes to their configuration?
+(Metric: %systems monitored for deviations against approved configurations) Monitoring
+and evaluating system security often centers around assurance activities.
+Assurance is defined as "a positive declaration intended to give confidence; a promise."
+In the context of information security, then, independent assurance denotes declarations made
+by third parties that security controls work as advertised.
+Assurances are another form of "trust but verify" in action.
+Assurance activities often include nontechnical activities like reviews
+of process documentation, system walkthroughs, data-center tours,
+and interviews with systems owners, business units, and IT operations.
+Technical assurance activities-
+control testing-commonly include penetration tests and system vulnerability scans.
+Key questions answered by independent assurance activities, and the metrics related to them,
+include these: On systems for which independent assurance is needed,
+are security controls working as designed?
+(Metrics: % critical systems reviewed for compliance with controls,
+% systems with at least one serious deficiency) Are electronic communications
+with third parties secured from tampering, interception, and attacks?
+(Metric: % third-party relationships reviewed for compliance) How effective is the process
+for independently testing security controls?
+(Metric: % controls working as designed) How much money is the organization spending
+on assurance activities?
+(Metric: cost of assurance activities per system) Most enterprises are subject
+to regulatory guidelines and statutes: Public Company Accounting Reform
+and Investor Protection Act of 2002 (also known
+as Sarbanes-Oxley) Health Insurance Portability and Accountability Act
+of 1993 (HIPAA) Gramm-Leach-Bliley Financial Services Modernization Act
+of 1999 (GLBA) Organizations are also often bound contractually to adhere
+to certain industry standards such as the Payment Card Industry (PCI) Data
+Security Standard.
+To comply with regulations and contracts,
+organizations in many industries typically commission (or find themselves receiving)
+formal audits.
+In contrast to assurance activities, which target the verification
+of particular technical controls, audits examine how well an organization implements those
+controls in compliance with the statute or contract.
+They also look for evidence of people bypassing controls.
+Audits differ primarily from assurance activities in that they reside squarely
+within the legal realm rather than the technical.
+Thus, when measuring audit processes, try using metrics oriented toward process questions
+like these: How much time and effort are security staff spending
+on audit-related activities?
+(Metrics: # regulatory audits completed,
+time/cost spent on audit activities) Have audits uncovered serious weaknesses
+in existing controls?
+(Metrics: % security compliance reviews with material weaknesses,
+% key external requirements compliant per external audit) How much time
+and effort are security staff spending fixing problems uncovered by audits?
+(Metrics: # pending deficiencies and estimated time/cost to complete,
+time/cost spent on remediation activities) Have audit activities uncovered problems
+with controls that would affect customer trust or privacy?
+(Metric: # pending customer-related deficiencies and estimated time/cost to complete)

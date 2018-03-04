@@ -1,0 +1,86 @@
+Organizations seeking to measure their security operations can draw from many potential sources
+of data, including systems, people and process controls.
+This slide summarizes the security metrics we discussed in previous units:
+Technical diagnostic metrics, which consists of Perimeter security & threats Coverage
+and control Availability and reliability Application security Program effectiveness
+metrics, which consists of Planning & organization Acquisition & implementation
+Delivery and support Monitoring These metrics play some key roles in risk assessment,
+risk mitigation and risk evaluation phases.
+At a high level, security metrics obtain measurements from data produced by a collection
+of external data sources, apply data analytics techniques, and finally publish results
+to an external sink (or destination).
+This figure depicts a conceptual ecosystem in which security metrics operate.
+The data analytics in the middle is metric automation system which takes raw data as input
+and produce the security metrics, which in turn can be fed into various destinations.
+Risk Management is one of the destinations.
+, We will discus the analytics techniques in next unit.
+The data sources for the analytics engine including the following, as examples:
+Asset Management: classes of assets, quantity, location, cost,
+owners Configuration management: OS, installed software, how assets are configured,
+and what changes have been made to these assets.
+Patch management systems: supply data about what patches are available,
+which ones are relevant, which ones have been applied and how long it took to apply them.
+Network and system management: supply data such as networks are operational,
+where the routers, and firewalls are located, what access control list are defined,
+what protocols and ports are allowed to pass between which subnets,
+where intrusion detection/protection systems are deployed, where the email gateways are.
+Security vulnerability and event management system supply data about exposure
+to potential threats (such as open ports,
+or unpatched software) and the actual threats detected.
+Human Resources: employees, contractors, and other personnel who work in the enterprise.
+Identity and access management IAM: which individuals have access to which systems
+and business services and what operations they are authorized to perform.
+CRM: about customers and their activity level, satisfaction,
+and demographics Incident Response Center: escalated threats, and their mitigation,
+internal user issues and their resolution Policy information:
+drives internal best practices, benchmarks, and operational parameters.
+Regulatory information: informs operational and business requirements Audit results:
+contain deficiencies that need resolution.
+The security metrics can then be fed into the following destinations,
+Risk Management Budget management Audit
+and compliance assessment systems Security operations General purpose reporting systems
+Scorecard management systems Effective metrics are often referred to as SMART, i.e. specific,
+measurable, attainable, repeatable, and time-dependent.
+To be truly useful, metrics should also indicate the degree to which security goals are being met
+and drive actions taken to improve an organization's overall security program.
+In the pursuit of metrics that meet these criteria, it is important to consider:
+how difficult collection of accurate data might be for a given metric;
+the potential that the metric might be misinterpreted;
+the need to periodically review metrics that are being tracked and make changes as needed.
+Asset value, threat, and vulnerability are critical elements of overall risk
+and are (or should be) weighed in most decisions having to do with security.
+Each of these elements poses difficulties when trying
+to incorporate them into a useful security metric.
+Asset value is the easiest of these three elements to measure; however,
+certain aspects of value, such as an institution's good reputation,
+are hard, if not impossible, to quantify.
+Some believe that threat cannot be measured at all, since it is the potential for harm,
+although survey results and other information gathered from external sources could be useful
+in quantifying threat at a high level.
+Objectively measuring vulnerability, at least for specific types
+of networked computer devices, is today relatively easy given the number
+of quality automated tools to detect levels of computer system vulnerabilities.
+Measurements of other facets of vulnerability, such as degree of understanding
+of security issues among computer users, remain somewhat subjective.
+Regarding potential misinterpretation, consider, for example, the metric often appearing
+in the popular press that deals with the number of security breaches experienced
+by a specific entity or industry sector.
+Many in the security profession would agree that this metric is not necessarily an indication
+of how secure an organization actually is.
+Indeed, certain security improvements may reveal security lapses
+that previously went undetected, and this is a good thing.
+Although this metric is easy to produce,
+a security manager should look beyond the institution's security incident record
+for indicators of security strength and choose metrics
+that demonstrate true progress toward goals.
+Finally, it is important to consider that the effectiveness
+of a given metric can vary depending upon the maturity
+of the overall security program and/or specific program component.
+To illustrate, assume that Institution A has just issued a policy
+that all mobile computing devices must be encrypted and Institution B has had
+such a policy in place for three years.
+During the first twelve months after policy issuance,
+Institution A would likely find a metric indicating the level
+of policy compliance to be very helpful.
+At Institution B, where device encryption is now routine, allocating resources to track the level
+of policy compliance would likely no longer be important.

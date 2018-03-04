@@ -1,0 +1,62 @@
+If the Planning and Organization control domain describes what an organization must do,
+the Acquisition and Implementation domain begins to answer the question of how.
+This domain contains all the activities relating to acquiring, provisioning,
+and implementing information systems and their associated controls Acquisition
+and Implementation processes turn the organization's high-level strategy
+and objectives into reality.
+These processes focus on how an organization defines and documents requirements
+for the software it uses, acquires or develops solutions to meet those requirements,
+creates appropriate control processes and procedures,
+and manages changes to infrastructure and processes.
+Security metrics for the "identify solutions" control objective should ask the following
+questions: - How frequently are security teams engaged when business units draw
+up requirements for new information systems?
+(Metrics: # security team consultations by business units,
+% new systems with initial security consultations) -
+How much attention do business units pay to customer requirements
+when planning a new information system?
+(Metrics: # consultations with security teams by externally facing applications teams,
+# customer consultations with security teams) - How often are business units requiring controls
+that ensure that customer information managed
+by new systems cannot be tampered with by unauthorized parties?
+(Metric: % coverage of integrity controls for data exchanged with customers/ partners) -
+How often are business units requiring controls that ensure the confidentiality
+of customer information managed by new systems?
+(Metric: % coverage of confidentiality controls for data exchanged
+with customers/partners) Bringing systems online successfully requires discipline, training,
+documentation, and effective project planning.
+Organizations must also ensure that they install information systems correctly,
+that system owners understand and accept the risks associated with these systems,
+and that installed systems demonstrably comply with prevailing security standards.
+We refer to these latter two concepts as processes for accrediting
+and certifying information systems.
+Accreditation means that the owner of a system has ascertained the security risk associated
+with a system and has agreed to accept any residual risk
+that existing controls cannot transfer or mitigate.
+Fundamentally, accreditation of a system means
+that the owner is accountable for residual risks.
+Certification, on the other hand, refers to something deeper than the act of accepting risk.
+Certification of a system means that a trusted party (internal
+or external) has tested the security controls of an installed system and has judged
+that it meets organizational security standards.
+Security measures for the "install and accredit solutions
+and changes" answer the following questions: Do information systems adhere
+to organizational security standards?
+(Metric: % systems with security certifications) Have the owners
+of information systems agreed to, and accepted, security risks?
+(Metrics: % systems with security accreditations, % accredited externally facing
+and customer-related applications) Has the organization included security
+in the costs of new systems?
+(Metric: %information systems with built-in security costs) Systems do not run themselves;
+they usually require people.
+Those people need to know what they are supposed to be doing: how to operate the systems they use
+in their day-today work, how to fix problems they encounter,
+and what steps to take to keep the system safe.
+The tangible forms that instructions take for keeping systems up and running go by many names,
+such as "procedures," "work instructions," and "operational controls."
+Regardless of the name used, these instructions typically describe: Procedures for starting
+and stopping the system Day-to-day operational responsibilities and tasks Availability policy
+and expected service level Monitoring
+and oversight responsibilities Problem management processes Business continuity
+and disaster recovery instructions Technical architecture Security responsibilities
+for users and operators Data security policy System ownership

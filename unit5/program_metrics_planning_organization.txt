@@ -1,0 +1,182 @@
+Technical metrics are not only ones worth
+considering. Of the classical triad of
+security program elements, technology,
+people, and process. The latter two can
+rarely be perfectly described by simple
+equation of diagnostic measure. Security
+program metrics try to measure the
+performance of people and processes,
+independent of the underlying technologies
+We are now discussing measuring security
+program effectiveness. Security is about
+control; while we speak about security
+effectiveness, we are really talking about
+effectiveness of the controls in aggregate
+Metrics promote accountability by
+quantifying the effectiveness of security
+processes. They tell us what are controls
+are working the way they should by boiling
+them down into numbers. Nearly every
+mainstream IT and security framework
+assumes or requires that practitioners
+implement reporting and accountability
+controls of one kind or another. As an
+organizing principle, we categorize the
+process effectiveness metrics along the
+lines of the 4 high level Cobit domains.
+This technologic agnostic domain. Planning
+and organization are processes for
+defining strategic security plans scoping
+of all program budgets and the levels of
+investment. Assesing risks and managing
+organizational and human resources.
+Acquisition and implementation domain
+contains the processes for identifying,
+acquiring, developing, and installing
+security certainties. Delivery and support
+domain are processes for defining service
+levels, managing internal and third party
+access, training end users, handling
+incidents and operating programs to secure
+data, facilities and operations.
+Monitoring domain contains processes
+for monitoring systems, assessing the
+effectiveness of security controls, and
+supporting other processes. Recall that
+asset evaluation is one key component in
+ALE equation in the conventional risks
+metrics approach we discuss earlier. In
+measuring program effectiveness section
+will focus on critical assets. These are
+assets for which an organization possesses
+zero tolerance for risks. We will not rely
+on any specific asset evaluation method.
+The primary control objectives for the
+for the planning and organizing domain
+include defined IT strategic plan and the
+desired architecture. Communicating goals
+and direction, assessing risks, and
+managing investment in time, money, and
+capital. Without proper planning the steps
+the organization takes to manage IT
+processes cannot be categorized as
+controls because operational activities
+devolved into reactive fire fighting
+activities The planning and organizational
+objectives keep an organization control
+generally speaking from becoming out of
+controls. This table shows assembling of
+a suggested security metrics for processes
+associated with planning and organization.
+As you might expect, the scope of the
+planning and organization domain is much
+larger than just security, so focusing and
+discussing on security requires us to
+scale back the set of objectives that we
+consider to be important. From the
+security point of view the most important
+thing to measure is how effectively the
+organization assesses risks, manages
+security issues associated with personnel
+and manages costs. The metrics focuses on
+this area primarily. For assessing risk,
+the process metrics we care about most,
+measures forward looking activities, we
+do not need to know how well a particular
+set of a security controls are functioning
+At least not as a planning or organization
+metrics. Instead, it is more important to
+capture high level metrics that quantify
+what an organization knows and does not
+know about nature of risk inherent in its
+infrastructure, people, and information.
+Knowing what you do not know assists with
+planning tasks because it identifies
+potential holes in organization security
+posture that affect an organization s most
+critical assets. The metrics for assessed
+risk control objective answer the
+following questions: Do critical assets
+reside on system that are comply with an
+organizations security standards? Measures
+a percentage of critical asset or
+functions reciting uncomplying systems.
+Has the organization reviewed critical
+assets and functions for physical and
+information security risks?
+metrics such as percentage of critical
+asset or functions reviewed for physical
+security risks or percentage critical
+asset function with documented risk
+assessment
+Is organization prepared to handle
+compromises of critical assets? Example
+metrics include percentage of critical
+assets or functions with documented
+mitigation plan, percentage of critical
+asset function with cost of compromise
+estimated. Human resource security metrics
+attempt to quantify forward looking
+measures of an organization s personnel.
+As the expression goes, an
+organization's security is only as strong
+as the weakest link, and the people
+have showed time again to be the weakest
+link. Aligned organizational s peoples
+strategies with security goals therefore
+is a key control objective. Metrics for
+the managed human resources control
+objective attempt to answer the following
+questions. A security responsibility
+included in job description and assessed
+during performance review metrics such as
+percentage of position descriptions
+defining IS roles, responsibilities,
+skills, and certifications. Percentage of
+job performance reviews with evaluation
+of IS responsibilities and the compliance.
+Does the organization face potential
+downstream issues due to employees without
+background checks? Measures a percentage
+of users who have undergone background
+checks. How well dispersed are security
+responsibility
+throughout organization?
+metrics such as ratio of business unit
+shadow security staff to core security
+team staff. This last metrics, the ratio of
+a shadow staff to security team staff, it
+reviews much about an organization s
+success in spreading around security
+responsibility. Nearly all organizations
+including the one you probably work
+in have a centralized security group who s
+job is to safeguard all information assets
+At the same time, most large organizations
+have discovered that they cannot rely on
+just a single group of people to do
+everything. The shadow ratio then, defines
+a way of measuring dispersions of
+responsibilities. All non-security staff
+who's job contains operational security
+responsibilities count toward the total.
+Keeping tabs on cost, knowing what an
+organization spends and why it spends it
+is key. Security costs are no different
+from any other kind of IT cost. Generally
+this cost breakdown into two categories:
+fixed cost including in-house cost that
+must be paid regardless of the size of
+the business, and a variable cost   those
+that vary with manpower or can be scaled
+up or down based on activities.
+This table shows common examples of each
+type. With respect to security the costs
+equate to activities that operate
+organization security system operational.
+Implement new security control to
+meet new requirements, new programs.
+Get out in front of new business requirements, that are discretionary.
+meet new requirements, new programs.
+Get Out! In front of new business
+requirements, that s discretionary.
